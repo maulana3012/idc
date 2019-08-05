@@ -1,0 +1,1560 @@
+0	0AB2	PT. Abad 21	Abad 21	PT.					
+0	0ABH	PT. Adi Bharata	Adi Bharata	PT.					
+0	0ADS	PT. Andesya Abadi Labtek	Andesya Abadi Labtek	PT.					
+0	0AEA	PT. Asih Eka Abadi	Asih Eka Abadi	PT.					
+0	0AIA	PT. Asuransi AIA Indonesia	Asuransi AIA Indonesia	PT.					
+0	0AIK	PT. AIKONIT	AIKONIT	PT.					
+0	0AKA	PT. AKACO	AKACO	PT.					
+0	0AML	CV. Anugerah Mega Lestari	Anugerah Mega Lestari	CV.					
+0	0AMM	CV. Amanah Medilab	Amanah Medilab	CV.					
+0	0AMN	PT. Anugerah Mutiara Nusantara	Anugerah Mutiara Nusantara	PT.					
+0	0AMS	PT. Anugerah Medi Sukses	Anugerah Medi Sukses	PT.					
+0	0AND	PT. Nur Andaristi 	Nur Andaristi	PT.					
+0	0ANJ	PT. Austindo Nusantara Jaya 	Austindo Nusantara Jaya 	PT.	Ganti ( 5ANJ ) .				
+0	0ANT	FA. Antares	Antares	FA.					
+0	0API	PT. Aneka Panel Indonesia	Aneka Panel Indonesia	PT.					
+0	0ARI	PT. Arista	Arista	PT.					
+0	0ASE	PT. Arisia Sempana	Arisia Sempana	PT.					
+0	0ASY	CV. Assyifa	Assyifa	CV.					
+0	0ATM	CV. Anugrah Tunas Medica	Anugrah Tunas Medica	CV.					
+0	0ATP	PT. Andalas Tiara Permai	Andalas Tiara Permai	PT.					
+0	0AWA	PT. Atra Widya Agung	Atra Widya Agung	PT.					
+0	0BHT	PT. Buetna Hareukat	Buetna Hareukat	PT.					
+0	0BIN	PT. Binapura Husada	Binapura Husada	PT.					
+0	0BMS	PD. Bumi Mas Safety	Bumi Mas Safety	PD					
+0	0BRI	CV. Bintang Riau	Bintang Riau	CV.					
+0	0BRS	PT. Bahas Reka Satya	Bahas Reka Satya	PT.					
+0	0BSD	PT. Bersaudara	Bersaudara	PT.					
+0	0BSK	PT. Blue Sky Indonseia	Blue Sky Indonesia	PT.					
+0	0BSM	CV. Bhakti Sejahtera Mandiri	Bhakti Sejahtera Mandiri	CV.					
+0	0BTS	CV. Bintang Timur Sejahtera	Bintang Timur Sejahtera	CV.					
+0	0BUF	CV. Budi Farma	Budi Farma	CV.					
+0	0BUR	PT. Bhineka Usada Raya	Bhineka Usada Raya	PT.					
+0	0CAM	PT. Candra Medika	Candra Medika	PT.					
+0	0CHB	CV. Cahaya Berkah	Cahaya Berkah	CV.					
+0	0CIM	CV. Citra Medika	Citra Medika	CV.					
+0	0CIP	CV. Citra Persada	Citra Persada	CV.					
+0	0CIS	PT. Cikal Sehat	Cikal Sehat	CL.					
+0	0CKG	CV. Cipta Karya Gemilang Persada	Cipta Karya Gemilang Persada	CV.					
+0	0CMH	CV. Citra Media Husada	Citra Media Husada	CV.					
+0	0CTA	CV. Citra Alkes	Citra Alkes	CV.					
+0	0CTM	CV. Catur Tama Raya	Catur Tama Raya	CV.					
+0	0DAP	CV. Daya Prima	Daya Prima	CV.					
+9	9DNA	Ibu Diana	Diana	Ibu					
+0	0DIM	CV. Daywin Inti Medika	Daywin Inti Medika	CV.					
+0	0DSA	CV. Delta Surya Alkesindo	Delta Surya Alkesindo	CV.					
+0	0DUA	PT. Dua Ribu Emas	Dua Ribu Emas	PT.					
+0	0DUP	CV. Dupin	Dupin	CV.					
+0	0DWC	CV. Dwicipta Medika Utama	Dwicipta Medika Utama	CV.					
+0	0EBU	PT. Esa Buana 	Esa Buana Husada	PT.					
+0	0EGP	PT. Enggal Perdana	Enggal Perdana	PT.					
+0	0ESP	PT. Elken Spirulina Perkasa	Elken Spirulina Perkasa	PT.					
+9	9FAC	Bp. Fachrudin	Fachrudin	Bp.					
+0	0FAU	Federasi Awak Kabin Udara Indonesia	Federasi Awak Kabin Udara Indonesia						
+0	0FTP	PT. Fertomulia Pratama	Fertomulia Pratama	PT.					
+0	0GAM	CV. Gama Medical	Gama Medical	CV.					
+0	0GES	PT. Gandasari Eka Satya	Gandasarai Eka Satya	PT.					
+0	0GID	PT. Gidion Jaya	Gidion Jaya	PT.					
+0	0GIS	PT. Graha Ismaya (LTD)	Graha Ismaya (LTD)	PT.					
+0	0GLO	CV. Glori Medical	Glori Medical						
+0	0GSM	CV. Global Samudra	Global Samudra	CV.					
+0	0HAN	CV. Hania Techno	Hania Techno	CV.					
+0	0HRF	PT. Halayung Raya Farma	Halayung Raya Farma	PT.					
+0	0HUI	PT. Humanindo	Humanindo	PT.					
+0	0IBS	PT. Indo Bangun Sukses	Indo Bangun Sukses	PT.					
+0	0IHS	PT. IHS Surabaya	HIS Surabaya	PT.					
+0	0ILA	CV. Indolab Jaya	Indolab Jaya	CV.					
+0	0IND	CV. Indotec Medica	Indotec Medica	CV.					
+0	0INS	PT. Indonesia NS	Indonesia NS	PT.					
+0	0INT	CV. Intraco	Intraco	CV.					
+0	0IPD	PT. Interindo Penta Dinamika	Interindo Penta Dinamika	PT.					
+0	0JAY	CV. Jayakana Abadi	Jayakana Abadi	CV.					
+0	0JEY	PT. Jeyoung	Jeyoung	PT.					
+0	0JIJ	CV. Jasindo Juwita	Jasindo Juwita	CV.					
+0	0JIN	PT. Jinyoung	Jinyoung	PT.					
+0	0KAB	PT. Karya Bakti Nusindo	Karya Bakti Nusindo	PT.					
+0	0KAF	PT. Kalbe Farma	Kalbe Farma	PT.					
+0	0KAK	PT. Kasih Karunia	Kasih Karunia Kekal	PT.					
+0	0KAR	PT. Kalimantan Riset	Kalimantan Riset	PT.					
+0	0KAW	Ap. Kawatan (CV. Mitra Medika)	Kawatan (CV. Mitra Medika)	CV.	Dari 2KAW				
+0	0KDA	CV. Kharisma Dewi Agung	Kharisma Dewi Agung	CV.					
+0	0KEB	PT. Karya Empat Bersaudara	Karya Empat Bersaudara	PT.					
+0	0KOJ	PT. Kosmojaya	Kosmojaya	PT.					
+0	0LAB	PT. Labora	Labora	PT.					
+0	0LAR	CV. Larasati	Larasati	CV.					
+0	0LJF	PT. Lima Jaya Farmatama	Lima Jaya Farmatama	PT.					
+0	0LOG	PT. Logika Prima Perdana	Logika Prima Perdana	PT.					
+0	0MAN	CV. Manggala	Manggala	CV.					
+0	0MAP	CV. Mitra Asa Pratama	Mitra Asa Pratama	CV.					
+0	0MAR	PT. Marpha	Marpha	PT.					
+0	0MCO	PT. Medicore	Medicore	PT.					
+0	0MEH	PT. Medikaloka Healthcare	Medikaloka Healthcare	PT.					
+0	0MEL	CV. Melia	Melia	CV.					
+0	0MET	PT. Metrum Alkestron	Metrum Alkestron	PT.					
+0	0MGR	CV. Menggala Raya	Menggala Raya	CV.					
+0	0MIB	CV. Mitra Medilab	Mitra Medilab	CV.					
+0	0MIF	CV. Mifa Utama	Mifa Utama	CV.					
+0	0MLA	PT. Mutilab	Mutilab	PT.					
+0	0MMP	CV. Mentari Medika Palembang	Mentari Medika Palembang	CV.					
+0	0MSS	CV. Mitra Sainsindo	Mitra Sainsindo	CV.					
+0	0MUA	CV. Mulia	Mulia	CV.					
+0	0MUG	CV. Multiguna	Multiguna	CV.					
+0	0MUL	CV. Multi Medika	Multi Medika	CV.					
+0	0NAL	CV. Naluri Medika	Naluri Medika	CV.					
+0	0NGA	PT. Nugra Aloeverindo	Nugra Aloeverindo	PT.					
+0	0NSI	PT. Nusa Selaras Indonesia	Nusa Selaras Indonesia	PT.					
+0	0NUG	PT. Nuga International	Nuga International	PT.					
+0	0NUM	PT. Nusa Medika	Nusa Medika	PT.					
+0	0NUT	PT. Nutriprima Jaya Sakti	Nutriprima Jaya Sakti	PT.					
+0	0OSI	PT. Osi	Osi	PT.					
+0	0PAA	CV. Panasea	Panasea	CV.					
+0	0PAC	PT. Pancuran	Pancuran	PT.					
+0	0PAL	PT. Pertiwi Agung (Landson)	Pertiwi Agung (Landson)	PT.					
+0	0PBA	AP. Pasar Balong	Pasar Balong	AP.					
+0	0PEN	PT. Pentraco	Pentraco	PT.					
+0	0PIA	PT. Piamor Indonesia (Makasar)	Piamor Indonesia (Makasar)	PT.					
+0	0PLA	PT. Plasmindo Prima Sejahtera	Plasmindo Prima Sejahtera 	PT.					
+0	0PRA	PT. Prima Anugerah	Prima Anugerah	PT.					
+0	0PRI	UD. Prima	Prima	UD.					
+0	0PSD	PT. Pentasada Surya Dinamika	Pentasada Surya Dinamika	PT.					
+0	0RAE	CV. Raja Erba Indochem	Raja Erba Indochem	CV.					
+0	0RAS	PT. Radiant Sentral	Radiant Sentral	PT.					
+0	0RET	CV. Regista Tritama	Regista Tritama	CV.					
+0	0RIA	PT. Ridho Agung	Ridho Agung	PT.					
+0	0RIM	PT. Rimatandu	Rimatandu	PT.					
+0	0RMK	CV. Rizal Medika	Rizal Medika	CV.					
+0	0ROS	PT. Rosarum	Rosarum	PT.					
+0	0RPC	PT. Rice Processing Complex	Rice Processing Complex	PT.					
+0	0SAH	CV. Sahabat	Sahabat	CV.					
+0	0SAK	PT. Sakura Medical	Sakura Medical	PT.					
+0	0SAM	CV. SA Medical	SA Medical	CV.					
+0	0SAN	PT. Sanidata	Sanidata	PT.					
+0	0SAR	CV. Sarana Medilab	Sarana Medilab	CV.	Wholesale	Ibu Nana			
+0	0SAT	PT. Satal Nusantara	Satal Nusantara	IPT.		Ibu Titing			
+0	0SBM	CV. Surya Bali Makmur	Surya Bali Makmur	CV.					
+0	0SBP	PT. Savanah Bali Persada	Savanah Bali Persada	PT.					
+0	0SCI	CV. Scientia Pelita	Scientia Pelita	CV.					
+0	0SEK	PT. Sekar Guna	Sekar Guna	PT.					
+0	0SEN	CV. Sentana	Sentana	CV.					
+0	0SET	PT. Setia Abadi Mandiri	Setia Abadi Mandiri	PT.					
+0	0SKM	CV. Satria Kencana Medika	Satria Kencana Medika	CV.					
+0	0SMA	CV. Sumber Mandiri	Sumber Mandiri	CV.					
+0	0SMF	CV. Sumifin	Sumifin	CV.					
+0	0SMU	CV. Sumber Murni	Sumber Murni	CV.					
+0	0SOL	PT. Sol Medika Manado	Sol Medika Manado	PT.					
+0	0SOS	PT. SOS International	SOS International	PT.					
+0	0SPB	PT. Sunputra Bersaudara	Sunputra Bersaudara	PT.					
+0	0SPS	PT. Surya Prima Sejahtera	Surya Prima Sejahtera	PT.					
+0	0SPT	CV. Sapta	Sapta	CV.					
+0	0SRE	CV. Sumber Remedia	Sumber Remedia	CV.					
+0	0SRJ	CV. Sumber Rejeki	Sumber Rejeki	CV.					
+9	9SSA	Ibu Susan	Susan	Ibu					
+9	9SSN	Ibu Susana	Susana	Ibu					
+0	0SSS	PT. Sebar Sari Semesta 	Sebar Sari Semesta 	PT.					
+0	0SSU	PT. Sehat Sejahtera Utama	Sehat Sejahtera Utama	PT.					
+0	0SUC	CV. Surya Chandra	Surya Chandra	CV.					
+0	0SUI	PT. Surya Indo	Surya Indo	PT.					
+0	0SUR	PT. Suryaprana Nutrisindo	Suryaprana Nutrisindo	PT					
+0	0TAN	Mr. Johntan	Johntan	Mr.					
+0	0TCI	PT. Thies Contractors Indonesia	Thies Contractors Indonesia	PT.					
+0	0TER	CV. Terang Raya	Terang Raya	CV.					
+0	0TIA	CV. Timur Agung	Timur Agung	CV.					
+0	0TIM	CV. Tirta Medicalindo	Tirta Medicalindo	CV.					
+0	0TYS	CV. Tiara Yudha Sejati	Tiara Yudha Sejati	CV.					
+0	0UMS	CV. Utama Medical Supplier	Utama Medical Supplier	CV.					
+0	0UNI	PT. Unilever	Unilever	PT.					
+0	0USN	US Namru-2	US Namru-2	Dep.					
+0	0VMS	PT. Vivamerindo Mitra Sejahtera	Vivamerindo Mitra Sejahtera	PT.					
+0	0WAL	CV. Walet Medika	Walet Medika	CV.					
+0	0WEI	PT. Westerindo	Westerindo	PT.					
+0	0WID	PT. Widyas Karsa	Widyas Karsa	PT.					
+2	2200	AP. 2000	Apotik 2000	AP.					
+2	2A00	Akt. Pusat	Akt. Pusat	Akt.					
+2	2ABS	Akt. Bandung Supermall	Bandung Supermall	Akt.					
+2	2AIP	Akt. Istana Plaza Bandung	Istana Plaza Bandung	Akt.					
+2	2AME	Ap. Mega	Mega	AP.					
+2	2API	Akt. Mal Puri Indah	Mal Puri Indah	Akt.					
+2	2ATA	Akt. Taman Anggrek	Taman Anggrek	Akt.					
+2	2B00	Bos. Pusat	Pusat	Bos.					
+2	2BAT	Bos. Atrium	Atrim	Bos.				26-Jun-03	
+2	2BBA	Bos. Batam	Batam	Bos.				26-Jun-03	
+2	2BBD	Bos. MTC Bandung	MTC Bandung	Bos.					
+2	2BBJ	Bos. Banjarmasin	Banjarmasin	Bos.					
+2	2BCB	Bos. Hypermart Cibubur	Hypermart Cibubur	Bos.					
+2	2BCK	Bos. Cikarang	Cikarang	Bos.				26-Jun-03	
+2	2BCL	Bos. Cilandak	Cilandak	Bos.				26-Jun-03	
+2	2BCR	Bos. Cirebon	Cirebon	Bos.					
+2	2BDE	Bos. Depok	Depok	Bos.				26-Jun-03	
+2	2BDM	Bos. Daan Mogot	Daan Mogot	Bos.				26-Jun-03	
+2	2BDQ	Bos. Depok Town Square	Depok Town Square	Bos.				26-Jun-03	
+2	2BGM	Bos. Gajah Mada	Gajah Mada 	Bos.					
+2	2BJA	Bos. JACC Jakarta	JACC Jakarta	Bos.					
+2	2BKB	Bos. Kuta Bali	Kuta Bali	Bos.				26-Jun-03	
+2	2BKC	Bos. Karawaci	Karawaci	Bos.				26-Jun-03	
+2	2BKG	Bos. Kelapa Gading	Kelapa Gading	Bos.					
+2	2BKL	Bos. Mall Kartini Lampung	Mall Kartini Lampung	Bos.					
+2	2BKN	Bos. Karawang	Karawang	Bos.				26-Jun-03	
+2	2BLA	Bos. Lampung	Lampung	Bos.				26-Jun-03	
+2	2BLB	Bos. Lucky Batam	Lucky Batam	Bos.				26-Jun-03	
+2	2BMA	Bos. Madiun	Madiun	Bos.				26-Jun-03	
+2	2BMD	Bos. Sun Plaza Medan	Sun Plaza Medan	Bos.					
+2	2BML	Bos. Malang	Malang	Bos.					
+2	2BMM	Bos. Manado	Bos. Manado	Bos.					
+2	2BMP	Bos. Metropolis	Metropolis	Bos.					
+2	2BMS	Bos. GTC Makasar	GTC Makasar	Bos.					
+2	2BNH	Bos. Nagoya Hill Batam	Nagoya Hill Batam	Bos.					
+2	2BPB	Bos. Mall Ciputra Pekanbaru	Mall Ciputra Pekanbaru	Bos.					
+2	2BPK	Bos. Mall Panakukang	Mall Panakukang	Bos.					
+2	2BPL	Bos. Palembang	Palembang	Bos.					
+2	2BPM	Bos. Poladium Medan	Poladium Medan	Bos.					
+2	2BPN	Bos. Ahmad Yani Pontianak	Ahmad Yani Pontianak	Bos.					
+2	2BPO	Bos. Pontianak	Pontianak	Bos.				26-Jun-03	
+2	2BPP	Bos. Plaza Ekalokasari	Plaza Ekalokasari Bogor	Bos.					
+2	2BPW	Bos. Pakuwon Surabaya	Pakuwon Surabaya	Bos.					
+2	2BRI	Bos. Ratu Indah Makasar	Ratu Indah Makasar	Bos.					
+2	2BRP	Bos. Royal Plaza Surabaya	Royal Plaza Surabaya	Bos.					
+2	2BSE	Bos. Semarang	Semarang	Bos.				26-Jun-03	
+2	2BSK	Bos. Mall Ska Pekanbaru	Mall Ska Pekanbaru	Bos.					
+2	2BSL	Bos. Grand Mall Solo	Grand Mall Solo	Bos.					
+2	2BSP	Bos. WTC Serpong	Serpong	Bos.					
+2	2BSS	Bos. Simpang Siur Bali	Simpang Siur Bali	Bos.				26-Jun-03	
+2	2BST	Bos. Sentul	Sentul	Bos.					
+2	2BTB	Bos. GTC Tanjung Bunga	GTC Tanjung Bunga	Bos.					
+2	2C00	Cen. Pusat	Pusat	Cen.					Pusat
+2	2CAA	Cen. Anggana Danamon	Anggana Danamon	Cen.					Anggana Danmon
+2	2CAB	Cen. Bona Indah	Bona Indah	Cen.					Balai Pustaka
+2	2CAD	Cen. Tanjung Duren	Tanjung Duren	Cen.					Bandung Supermal
+2	2CAF	Cen. Puri Farma	Puri Farma	Cen.					"BII Plaza, Tower 2"
+2	2CAG	Cen. Grenvil Farma	Grenvil Farma	Cen.					Bintaro Farma
+2	2CAH	Cen. Cempaka Putih	Cempaka Putih	Cen.					Blok M Plaza 1
+2	2CAI	Cen. Duta Indah	Duta Indah	Cen.					Bona Indah
+2	2CAJ	Cen. Jawa	Jawa	Cen.					BSD Plaza
+2	2CAK	Cen. Kelapa Gading	Kelapa Gading	Cen.					Carrefour Cempaka Putih
+2	2CAM	Cen. Mal Ambasador	Mal Ambasador	Cen.					Carrefour Duta Merlin
+2	2CAN	Cen. Sunter	Sunter	Cen.					Carrefour Lakespra Cawang
+2	2CAO	Cen. Bintaro Farma	Bintaro Farma	Cen.					Carrefour Lebak Bulus
+2	2CAP	Cen. Balai Pustaka	Balai Pustaka	Cen.					Carrefour Puri Indah
+2	2CAQ	Cen. Kelapa Gading II	Kelapa Gading II	Cen.					Cemara
+2	2CAT	Cen. Tebet Mas Indah	Tebet Mas Indah	Cen.					
+2	2CAS	Cen. Sabang Farma	Sabang Farma	Cen.					Cempaka Putih
+2	2CAU	Cen. Muara Indah	Muara Indah	Cen.					Cilandak
+2	2CAV	Cen. Buana Farma	Buana Farma	Cen.					
+2	2CAW	Cen. Wisma 46	Wisma 46	Cen.					Daan Mogot
+2	2CAX	Cen. Cemara	Cemara	Cen.					D'best Cikokol
+2	2CAY	Cen. Jaya	Jaya	Cen.					D'best Fatmawati
+2	2CBA	Cen. Plaza Bapindo	Plaza Bapindo	Cen.					
+2	2CB2	Cen. Tops Sentrasari Bandung	Tops Sentrasari Bandung	Cen.				26-Jun-03	Duta Indah
+2	2CB3	Cen. Bandung Trade Center	Bandung Trade Center	Cen.	Dari 2DTC				
+2	2CB5	Cen. Lingkar Selatan	Lingkar Selatan	Cen.				26-Jun-03	Duta Indah
+2	2CBB	Cen. Bubutan Golden Junction	Bubutan Golden Junction	Cen.					
+2	2CBD	Cen. Discovery Mall Bali	Discovery Mall Bali	Cen.					
+2	2CBG	Cen. Mall Bali Galeria	Mall Bali Galeria	Cen.					
+2	2CBJ	Cen. Gedung Bursa Efek Jakarta	Gedung Bursa Efek Jakarta	Cen.					Gajah Mada Plaza
+2	2CBK	Cen. Istana Kuta Galeria Bali	Istana Kuta Galeria Bali	Cen.					
+2	2CBM	Cen. Blok M Plaza 1	Blok M Plaza 1	Cen.					Galaksi Mal
+2	2CBP	"Cen. BII Plaza, Tower 2"	"BII Plaza, Tower 2"	Cen.					Gedung Bursa Efek Jakarta
+2	2CBS	Cen. Bandung Supermal	Bandung Supermal	Cen.				26-Jun-03	Grand Wijaya
+2	2CBZ	Cen. Bandung Indah Plaza	Bandung Indah Plaza	Cen.					
+2	2CCC	Cen. Carrefour Lakespra Cawang	Carrefour Lakespra Cawang	Cen.					Grenvil Farma
+2	2CCD	Cen. Carrefour Duta Merlin	Carrefour Duta Merlin	Cen.					Hero Pondok Bambu
+2	2CCE	Cen. Carrefour Blue Mall (Luar)	Carrefour Blue Mall (Luar)	Cen.					
+2	2CCF	Cen. Carrefour Cempaka Putih	Carrefour Cempaka Putih	Cen.					ITC Roxy Mas
+2	2CCG	Cen. Carrefour Cikarang 	Carrefour Cikarang 	Cen.					
+2	2CCI	Cen. Carrefour Bali (Luar)	Carrefour Bali (Luar)	Cen.					
+2	2CCJ	Cen. Cibubur Junction	Cibubur Junction	Cen.					
+2	2CCL	Cen. Mal Ciputra Jakarta	Mal Ciputra Jakarta	Cen.					Jawa
+2	2CCM	Cen. Plaza Cempaka Mas	Plaza Cempaka Mas	Cen.					Jaya
+2	2CCP	Cen. Carrefour Lebak Bulus	Carrefour Lebak Bulus	Cen.					Kelapa Gading
+2	2CCQ	Cen. Cilandak	Cilandak	Cen.				23-Jun-03	Kelapa Gading II
+2	2CCR	Cen. Carrefour Puri Indah	Carrefour Puri Indah	Cen.					Kemchick Kemang
+2	2CCW	Cen. Ciampelas Walk Bandung	Ciampelas Walk Bandung	Cen.					Kemchick Kemang
+2	2CC1	Cen. Carrefour Cempaka Mas	Carrefour Cempaka Mas 	Cen.					
+2	2CC2	Cen. Carrefour Pasar Atom Surabaya	Carrefour Pasar Atom Surabaya	Cen.					
+2	2CC3	Cen. Carrefour Kelapa Gading (Dalam)	Carrefour Kelapa Gading (Dalam)	Cen.					
+2	2CC4	Cen. Carrefour Blue Mall (Dalam)	Carrefour Blue Mall (Dalam)	Cen.					
+2	2CC5	Cen. Carrefour Bali (Dalam)	Carrefour Bali (Dalam)	Cen.					
+2	2CDB	Cen. D'best Fatmawati	D'best Fatmawati	Cen.					Lingkar Selatan
+2	2CDC	Cen. D'best Cikokol	D'best Cikokol	Cen.					Mal Ambasador
+2	2CDM	Cen. Daan Mogot	Daan Mogot	Cen.					Mal Cinere
+2	2CDQ	Cen. Darmawangsa	Darmawangsa	Cen.	CDA				
+2	2CDS	Cen. Metropolitan Mall Bekasi	Metropolitan Mall Bekasi	Cen.					Mal Ciputra Jakarta
+2	2CFF	Cen. Alfa Pamulang	Alfa Pamulang	Cen.					
+2	2CFP	Cen. Alfa Pasar Minggu	Alfa Pasar Minggu	Cen.					
+2	2CFS	Cen. Senayan City	Senayan City	Cen.					
+2	2CGA	Cen. Artha Gading 	Artha Gading	Cen.					
+2	2CGC	Cen. Golden City Mall	Golden City Mall	Cen.					
+2	2CGM	Cen. Galaksi Mal	Galaksi Mal	Cen.				23-Jun-03	Mal Kelapa Gading
+2	2CGW	Cen. Grand Wijaya	Grand Wijaya	Cen.					Mal Kelapa Gading III
+2	2CHB	Cen. Hero Pondok Bambu	Hero Pondok Bambu	Cen.					Mal Lippo City
+2	2CID	Cen. Superindo Dago Bandung	Superindo Dago Bandung	Cen.				26-Jun-03	Mal Pondok Indah
+2	2CIK	Cen. Superindo Kelapa Dua	Superindo Kelapa Dua	Cen.					
+2	2CIM	Cen. Matahari Megamal Pluit	Matahari Megamal Pluit	Cen.				26-Jun-03	Mal Puri Indah
+2	2CIP	Cen. Istana Bandung Plaza	Istana Bandung Plaza	Cen.					
+2	2CIR	Cen. Superindo Pancoran	Superindo Pancoran	Cen.					
+2	2CIS	Cen. ITC Bumi Serpong Damai	ITC Bumi Serpong Damai	Cen.					
+2	2CIT	Cen. Superindo Taman Palem	Superindo Taman Palem	Cen.					
+2	2CIU	Cen. Superinndo Sunter	Superinndo Sunter	Cen.					
+2	2CIW	Cen. Superindo Warung Buncit	Superindo Warung Buncit	Cen.					
+2	2CKB	Cen. Plz Kalibata Lobby Floor	Plz Kalibata Lobby Floor	Cen.					
+2	2CKC	Cen. Kemchick Kemang	Kemchick Kemang	Cen.					Mal Taman Anggrek
+2	2CKI	Cen. Kings Shopping Centre Bandung	Kings Shopping Centre Bandung	Cen.					
+2	2CKM	Cen. Tomang Tol Kalimalang	Tomang Tol Kalimalang	Cen.					Matahari Megamal Pluit
+2	2CKP	Cen. Bunda Kemang Pratama Bekasi	Bunda Kemang Pratama Bekasi	Cen.					
+2	2CKS	Cen. Mal Kelapa Gading	Mal Kelapa Gading	Cen.					Mega Mal Pluit
+2	2CLC	Cen. Mal Lippo City	Mal Lippo City	Cen.					Menteng Prada
+2	2CLM	"Cen. Plaza Blok M, Lg"	"Plaza Blok M, Lg"	Cen.					Metropolitan Mall Bekasi
+2	2CM1	Cen. The Club Store Medan	The Club Store Medan	Cen.				26-Jun-03	Muara Indah
+2	2CM2	Cen. Sun Plaza Medan	Sun Plaza Medan	Cen.					
+2	2CM3	Cen. Plaza Medan Fair	Plaza Medan Fair	Cen.					
+2	2CMA	Cen. Mall Taman Palem (Carrefour)	Mall Taman Palem (Carrefour)	Cen.					
+2	2CMC	Cen. Mal Cinere	Mal Cinere	Cen.					Pasar Festifal
+2	2CMD	Cen. Mangga Dua Square	Mangga Dua Square	Cen.					
+2	2CMF	Cen. Mutiara Farma	Mutiara Farma	Cen.					
+2	2CMP	Cen. Menteng Prada	Menteng Prada	Cen.					Pasaraya Grande Blok M
+2	2CMS	Cen. Maspion Square Surabaya	Maspion Square Surabaya	Cen.					
+2	2CMQ	Cen. Panakkukang Square	Panakkukang Square	Cen.					
+2	2CP1	Cen. Palembang Square Mall	Palembang Square Mall	Cen.					
+2	2CP2	Cen. Palembang Trade Center	Palembang Trade Center	Cen.					
+2	2CP3	Cen. Rora Palembang	Rora Palembang	Cen.	2CPRR (X)				
+2	2CP4	Cen. Tora Palembang	Tora Palembang	Cen.	2CPTO (X)				
+2	2CP5	Cen. Palembang Indah Mall	Palembang Indah Mall	Cen.	Dari 2DPL				
+2	2CPA	Cen. Plaza Arion	Plaza Arion	Cen.					Plaza Arion
+2	2CPB	Cen. Plaza Bintaro Jaya 2	Plaza Bintaro Jaya 2	Cen.					Plaza Bintaro Jaya
+2	2CPC	Cen. Carrefour Permata Hijau	Carrefour Permata Hijau	Cen.					
+2	2CPE	Cen. Plaza Ekalokasari Bogor	Plaza Ekalokasari Bogor	Cen.					
+2	2CPF	Cen. Pasar Festifal	Pasar Festifal	Cen.					Plaza Bintaro Jaya 2
+2	2CPG	Cen. Pasaraya Grande Blok M	Pasaraya Grande Blok M	Cen.					"Plaza Blok M, Lg"
+2	2CPI	Cen. Mal Pondok Indah	Mal Pondok Indah	Cen.					Plaza Cempaka Mas
+2	2CPJ	Cen. Paris Van Java	Paris Van Java	Cen.					
+2	2CPK	Cen. Mall Panakkukang Makassar	Mall Panakkukang Makassar	Cen.					
+2	2CPM	Cen. Mega Mal Pluit	Mega Mal Pluit	Cen.					Plaza Indonesia
+2	2CPP	Cen. Gajah Mada Plaza	Gajah Mada Plaza	Cen.					Plaza Senayan
+2	2CPQ	Cen. Poins Square	Poins Square	Cen.					
+2	2CPR	Cen. Mal Puri Indah	Mal Puri Indah	Cen.					Plaza Slipi Jaya
+2	2CPS	Cen. Plaza Surabaya-SBY	Plaza Surabaya-SBY	Cen.				26-Jun-03	Plaza Surabaya-SBY
+2	2CPT	Cen. Plaza Tendean	Plaza Tendean	Cen.					Plaza Tendean
+2	2CPW	Cen. Pakuwon Darmo-SBY	Pakuwon Darmo	Cen.					
+2	2CPY	Cen. Papaya Fresh Market	Papaya Fresh Market	Cen.					
+2	2CRA	Cen. Plaza Bintaro Jaya	Plaza Bintaro Jaya	Cen.					Puri Farma
+2	2CRI	Cen. Ranch Market Plz Pondok Indah 6	Ranch Market Plz Pondok Indah 6	Cen.					Ranch Market Pondok Indah
+2	2CRP	Cen. Ratu Plaza	Ratu Plaza	Cen.					Ratu Plaza
+2	2CRZ	Cen. Royal Plaza	Royal Plaza	Cen.					
+2	2CSA	Cen. Sogo Pondok Indah II	Sogo Pondok Indah II	Cen.					
+2	2CSD	Cen. BSD Plaza	BSD Plaza	Cen.					Sabang Farma
+2	2CSG	Cen. Plaza Indonesia	Plaza Indonesia	Cen.					Sogo Plaza Senayan
+2	2CSI	Cen. Superindo Intercon	Superindo Intercon	Cen.					
+2	2CSJ	Cen. Plaza Slipi Jaya	Plaza Slipi Jaya	Cen.					Sunter
+2	2CSK	Cen. Supermal Karawaci Lt.UG	Supermal Karawaci Lt.UG	Cen.					
+2	2CSM	Cen. Supermal Karawaci	Supermal Karawaci	Cen.					Sunter Mal
+2	2CSN	Cen. Sudirman Place	Sudirman Place						
+2	2CSQ	Cen. Plaza Senayan	Plaza Senayan	Cen.					Superindo Dago Bandung
+2	2CSS	Cen. Sogo Plaza Senayan	Sogo Plaza Senayan	Cen.					Supermal Karawaci
+2	2CST	Cen. Sogo Tunjungan Plasa IV Surabaya	Sogo Tunjungan Plasa IV Surabaya	Cen.					
+2	2CSU	Cen. Sunter Mal	Sunter Mal	Cen.					Tanjung Duren
+2	2CTA	Cen. Mal Taman Anggrek	Mal Taman Anggrek	Cen.					The Club Store Medan
+2	2CTP	Cen. Tunjungan Plaza III-SBY	Tunjungan Plaza III-SBY	Cen.				23-Jun-03	Tomang Tol Kalimalang
+2	2CTQ	Cen. Manado Town Square	Manado Town Square	Cen.					
+2	2CTS	Cen. Taman Mini Square	Taman Mini Square	Cen.					
+2	2CUS	Cen. US Embassy	US Embassy	Cen.					
+2	2CXK	Cen. Mal Kelapa Gading III	Mal Kelapa Gading III	Cen.					Tunjungan Plaza III-SBY
+2	2CXN	Cen. Nariba Farma	Nariba Farma	Cen.					
+2	2CXR	Cen. ITC Roxy Mas	ITC Roxy Mas	Cen.					Wisma 46
+2	2CZS	Cen. Plaza Semanggi	Plaza Semanggi	Cen.					
+2	2D5A	Ap.Plus Plaza Cibubur 2	Plus Plaza Cibubur 2	Cen.Plus	2CPBF				
+2	2DAR	Ap.Plus Plaza Amburakmo	Plus Plaza Amburakmo	Cen.Plus	2CPBF				
+2	2D4A	Ap.Plus Mall Kartini Lampung	Plus Mall Kartini Lampung	Cen.Plus					
+2	2D6A	Ap.Plus Metropolis Town Square	Plus Metropolis Town Square	Cen.Plus					
+2	2D6B	Ap.Plus Plaza Jababeka	Plus Plaza Jababeka	Cen.Plus					
+2	2D6C	Ap.Plus ITC Cibinong	Plus ITC Cibinong	Cen.Plus					
+2	2D6E	Ap.Plus Cimanggis	Plus Cimanggis	Cen.Plus					
+2	2D7A	Ap.Plus Solo Square	Plus Solo Square	Cen.Plus					
+2	2D8B	Ap.Plus Malang Town Square	Plus Malang Town Square	Ap.Plus	2CPBF				
+2	2D8C	Ap.Plus Pasaraya Yakaya Bandung	Plus Pasaraya Yakaya Bandung	Cen.Plus					
+2	2DBC	Ap.Plus Bogor City Center	Plus Bogor City Center	Ap.Plus					
+2	2DBF	Ap.Plus Mall Fantasy Balikpapan	Plus Mall Fantasy Balikpapan	Cen.Plus	2CPBF				
+2	2DBI	Ap.Plus Batam Internasional Plaza	Plus Batam Internasional Plaza	Cen.Plus	2CPBI				
+2	2DBR	Ap.Plus Bekasi Trade Center	Plus Bekasi Trade Center	Cen.Plus					
+2	2DCG	Ap.Plus Grage Cirebon	Plus Grage Cirebon	Cen.Plus	2CPCG				
+2	2DCS	Ap.Plus Mall Ciputra Semarang	Plus Mall Ciputra Semarang	Cen.Plus	2CPCS				
+2	2DDT	Ap.Plus Depok Town Square	Plus Depok Town Square	Cen.Plus					
+2	2DGR	Ap.Plus Ground 100 WTC Matahari	Plus Ground 100 WTC Matahari	Cen.Plus					
+2	2DHP	Ap.Plus Hyperpoint Bandung	Plus Hyperpoint Bandung	Cen.Plus	2CPHP				
+2	2DJY	Ap.Plus Djaya Pekanbaru	Plus Djaya Pekanbaru	Cen.Plus					
+2	2DMB	Ap.Plus Mega Mall Batam Centre	Plus Mega Mall Batam Centre	Cen.Plus	2DMB				
+2	2DMM	Ap.Plus Manado	Plus Manado	Cen.Plus	2CPMM				
+2	2DMQ	Ap.Plus Margonda City Depok	Plus Margonda City Depok	Ap.Plus					
+2	2DMY	Ap.Plus Yogyakarta	Plus Yogyakarta	Cen.Plus	2CPMY				
+2	2DPL	Ap.Plus Palembang Indah Mall	Plus Palembang Indah Mall	Ap.Plus					
+2	2DPN	Ap.Plus Mall Ahmad Yani Pontianak	Plus Mall Ahmad Yani Pontianak	Cen.Plus					
+2	2DPX	Ap.Plus Plaza Andalas	Plus Plaza Andalas	Cen.Plus					
+2	2DRR	Ap.Plus Rora Palembang	Plus Rora Palembang	Cen.Plus	2CPRR				
+2	2DRT	Ap.Plus Rita Superstore	Plus Rita Superstore	Cen.Plus					
+2	2DSK	Ap.Plus Mall Ska Pekanbaru	Plus Mall Ska Pekanbaru	Cen.Plus	2CPSK				
+2	2DSL	Ap.Plus Grand Mall Solo	Plus Grand Mall Solo	Cen.Plus	2CPSL				
+2	2DSP	Ap.Plus Mall Ciputra Pekanbaru	Plus Mall Ciputra Pekanbaru	Cen.Plus					
+2	2DSR	Ap.Plus Sri Ratu Mega Center Pekalongan 	Plus Sri Ratu Mega Center Pekalongan 	Cen.Plus	2CPSR				
+2	2DTF	Ap.Plus Batam Center Point	Plus Batam Center Point	Cen.Plus					
+2	2DTG	Ap.Plus Mall Pacific Tegal	Plus Mall Pacific Tegal 	Cen.Plus	2CPTG				
+2	2DTS	Ap.Plus Serpong Town Squre	Plus Serpong Town Squre	Ap.Plus					
+2	2DU2	Ap.Plus WTC Matahari Serang 2	WTC Matahari Serang 2	Cen.Plus	2CPU2				
+2	2DWJ	Ap.Plus Ruko Warung Jambu	Plus Ruko Warung Jambu	Cen.Plus					
+2	2DXC	Ap.Plus Ramayana Cilegon	Plus Ramayana Cilegon	Cen.Plus					
+2	2D00	Ap.Plus Pusat	Plus Pusat	Ap.Plus					
+2	2EAK	Ap. K24 (PT.Amanat Kawan Sejati)	K24 (PT.Amanat Kawan Sejati)	Ap.K24					
+2	2F23	Ap. Kimia Farma No. 23 Surabaya	Kimia Farma No. 23 Surabaya	Kimia Farma					
+2	2F24	Ap. Kimia Farma No. 24 Surabaya	Kimia Farma No. 24 Surabaya	Kimia Farma					
+2	2F25	Ap. Kimia Farma No. 25 Surabaya	Kimia Farma No. 25 Surabaya	Kimia Farma					
+2	2F26	Ap. Kimia Farma No. 26 Surabaya	Kimia Farma No. 26 Surabaya	Kimia Farma					
+2	2F35	Ap. Kimia Farma No. 35 Surabaya	Kimia Farma No. 35 Surabaya	Kimia Farma					
+2	2F45	Ap. Kimia Farma No. 45 Surabaya	Kimia Farma No. 45 Surabaya	Kimia Farma					
+2	2F49	Ap. Kimia Farma No. 49 JAYA 2	Kimia Farma No. 49 JAYA 2	Kimia Farma					
+2	2FAY	Ap. Kimia Farma No. 78 Tangerang	Kimia Farma No. 78 Tangerang	Kimia Farma					
+2	2FBA	Ap. Kimia Farma Banda Aceh	Kimia Farma Banda Aceh	Kimia Farma					
+2	2FBC	Ap. Kimia Farma Batam Center	Kimia Farma Batam Center	Kimia Farma					
+2	2FBH	Ap. Kimia Farma No. 298 RS. Jakarta	Kimia Farma No. 298 RS. Jakarta	Kimia Farma					
+2	2FBK	Ap. Kimia Farma No. 110 Bogor	Kimia Farma No. 110 Bogor	Kimia Farma					
+2	2FBL	Ap. Kimia Farma Bandar Lampung	Kimia Farma Bandar Lampung	Kimia Farma					
+2	2FBP	Ap. Kimia Farma Balikpapan	Kimia Farma Balikpapan	Kimia Farma					
+2	2FBS	Ap. Kimia Farma No.125 Bali	Kimia Farma No.125 Bali	Kimia Farma					
+2	2FB1	Ap. Kimia Farma No. 61 Banjarmasin	Kimia Farma No. 61 Banjarmasin	Kimia Farma					
+2	2FCB	Ap. Kimia Farma No. 40 Cirebon	Kimia Farma No. 40 Cirebon	Kimia Farma					
+2	2FCI	Ap. Kimia Farma Cikini (24 jam)	Kimia Farma Cikini (24 jam)	Kimia Farma					
+2	2FCM	Ap. Kimia Farma No. 1 RS. Jakarta	Kimia Farma No. 1 RS. Jakarta	Kimia Farma					
+2	2FCP	Ap. Kimia Farma No. 219 JAYA 1	Kimia Farma No. 219 JAYA 1	Kimia Farma					
+2	2FCR	Ap. Kimia Farma No. 5 Cikini JAYA 2	Kimia Farma No. 5 Cikini JAYA 2	Kimia Farma					
+2	2FDD	Ap. Kimia Farma No. 34 BALI	Kimia Farma No. 34 BALI	Kimia Farma					
+2	2FGA	Ap. Kimia Farma No. 1 JAYA 2	Kimia Farma No. 1 JAYA 2	Kimia Farma					
+2	2FGJ	Ap. Kimia Farma No. 62 Gajah Mada-Jember	Kimia Farma No. 62 Gajah Mada-Jember	Kimia Farma					
+2	2FGL	Ap. Kimia Farma No. 291 Jaya 2 Galaksi (Matraman)	Kimia Farma No. 291 Jaya 2 Galaksi (Matraman)	Kimia Farma					
+2	2FJB	Ap. Kimia Farma No. 7 BOGOR	Kimia Farma No. 7 BOGOR	Kimia Farma					
+2	2FJW	Ap. Kimia Farma No. 295 JAYA 2	Kimia Farma No. 295 JAYA 2	Kimia Farma					
+2	2FJY	Ap. Kimia Farma Jayapura	Kimia Farma Jayapura	Kimia Farma					
+2	2FKB	Ap. Kimia Farma No. 42 JAYA 1	Kimia Farma No. 42 JAYA 1	Kimia Farma					
+2	2FKD	Ap. Kimia Farma Kendari	Kimia Farma Kendari	Kimia Farma					
+2	2FKL	Ap. Kimia Farma No. 55 JAYA 1	Kimia Farma No. 55 JAYA 1	Kimia Farma					
+2	2FKP	Ap. Kimia Farma No. 82 BALI	Kimia Farma No. 82 BALI	Kimia Farma					
+2	2FKS	Ap. Kimia Farma No. 282 JAYA 1	Kimia Farma No. 282 JAYA 1	Kimia Farma					
+2	2FKT	Ap. Kimia Farma No. 242 BALI	Kimia Farma No. 242 BALI	Kimia Farma					
+2	2FK1	Ap. Kimia Farma No. 18 RSUD Yohannes-Kupang	Kimia Farma No. 18 RSUD Yohannes-Kupang	Kimia Farma					
+2	2FMA	Ap. Kimia Farma Matraman No.55	Kimia Farma matraman no.55	Kimia Farma					
+2	2FMB	Ap. Kimia Farma No. 50 BOGOR	Kimia Farma No. 50 BOGOR	Kimia Farma					
+2	2FMD	Ap. Kimia Farma Medan	Kimia Farma Medan	Kimia Farma					
+2	2FMG	Ap. Kimia Farma No.143 Depok (BM KF 7 Bogor)	Kimia Farma No.143 Depok (BM KF 7 Bogor)	Kimia Farma					
+2	2FMH	Ap. Kimia Farma Menteng Huis	Kimia Farma Menteng Huis	Kimia Farma					
+2	2FMK	Ap. Kimia Farma No. 33 Makasar	Kimia Farma No. 33 Makasar	Kimia Farma					
+2	2FMM	Ap. Kimia Farma Mataram	Kimia Farma Mataram 	Kimia Farma					
+2	2FMO	Ap. Kimia Farma Manado	Kimia Farma Manado	Kimia Farma					
+2	2FMR	Ap. Kimia Farma No. 48 Matraman JAYA 2	Kimia Farma No. 48 Matraman JAYA 2	Kimia Farma	2FMA				
+2	2FMT	Ap. Kimia Farma No. 296 Tangerang	Kimia Farma No. 296 Tangerang	Kimia Farma					
+2	2FM1	Ap. Kimia Farma No. 36 MALANG	Kimia Farma No. 36 MALANG	Kimia Farma					
+2	2FM2	Ap. Kimia Farma No. 53 MALANG	Kimia Farma No. 53 MALANG	Kimia Farma					
+2	2FM3	Ap. Kimia Farma No. 43 RS.SUPRAUN MALANG	Kimia Farma No. 43 RS.SUPRAUN MALANG	Kimia Farma					
+2	2FM4	Ap. Kimia Farma No. 75 MALANG	Kimia Farma No. 75 MALANG	Kimia Farma					
+2	2FND	Ap. Kimia Farma No. 126 BALI	Kimia Farma No. 126 BALI	Kimia Farma					
+2	2FPB	Ap. Kimia Farma Pekanbaru	Kimia Farma Pekanbaru	Kimia Farma					
+2	2FPD	Ap. Kimia Farma No. 238 Padang	Kimia Farma No. 238 Padang	Kimia Farma					
+2	2FPJ	Ap. Kimia Farma No. 6 JAYA 1	Kimia Farma No. 6 JAYA 1	Kimia Farma					
+2	2FPL	Ap. Kimia Farma No. 25 RSU Undata Palu	Kimia Farma No. 25 RSU Undata Palu	Kimia Farma					
+2	2FPP	Ap. Kimia Farma No. 254 JAYA 1	Kimia Farma No. 254 JAYA 1	Kimia Farma					
+2	2FPR	Ap. Kimia Farma No. 115 Tangerang	Kimia Farma No. 115 Tangerang	Kimia Farma					
+2	2FPS	Ap. Kimia Farma Pamekasan	Kimia Farma Pamekasan	Kimia Farma					
+2	2FP1	Ap. Kimia Farma No. 80 Palembang	Kimia Farma No. 80 Palembang	Kimia Farma					
+2	2FRD	Ap. Kimia Farma No. 47 JAYA 1	Kimia Farma No. 47 JAYA 1	Kimia Farma					
+2	2FRM	Ap. Kimia Farma No. 140 Tangerang	Kimia Farma No. 140 Tangerang	Kimia Farma					
+2	2FRN	Ap. Kimia Farma No. 4 Jaya 2 Rawamangun	Kimia Farma No. 4 Jaya 2 Rawamangun	Kimia Farma					
+2	2FRS	Ap. Kimia Farma No. 7 BALI	Kimia Farma No. 7 BALI	Kimia Farma					
+2	2FSB	Ap. Kimia Farma No. 221 Sukabumi	Kimia Farma No. 221 Sukabumi	Kimia Farma					
+2	2FSE	Ap. Kimia Farma Senen KF2	Kimia Farma Senen KF2	Kimia Farma					
+2	2FSG	Ap. Kimia Farma No. 130 Sorong	Kimia Farma No. 130 Sorong	Kimia Farma					
+2	2FSJ	Ap. Kimia Farma No. 96 JAYA 1	Kimia Farma No. 96 JAYA 1	Kimia Farma					
+2	2FSK	Ap. Kimia Farma No. 232 BALI	Kimia Farma No. 232 BALI	Kimia Farma					
+2	2FSM	Ap. Kimia Farma No. 10 RSUA Wahab	Kimia Farma No. 10 RSUA Wahab	Kimia Farma					
+2	2FSR	Ap. Kimia Farma No. 2 JAYA 2	Kimia Farma No. 2 JAYA 2	Kimia Farma					
+2	2FSS	Ap. Kimia Farma No. 95 Tangerang	Kimia Farma No. 95 Tangerang	Kimia Farma					
+2	2FTK	Ap. Kimia Farma No. 157 BALI	Kimia Farma No. 157 BALI	Kimia Farma					
+2	2FTP	Ap. Kimia Farma No. 3 Tangerang	Kimia Farma No. 3 Tangerang	Kimia Farma					
+2	2FTR	Ap. Kimia Farma Tarakan	Kimia Farma Tarakan	Kimia Farma					
+2	2FTU	Ap. Kimia Farma No. 108 BALI	Kimia Farma No. 108 BALI	Kimia Farma					
+2	2FVS	Ap. Kimia Farma No. 8 BOGOR	Kimia Farma No. 8 BOGOR	Kimia Farma					
+2	2FYG	Ap. Kimia Farma Yogyakarta	Kimia Farma Yogyakarta	Kimia Farma					
+2	2FYS	Ap. Kimia Farma No. 46 JAYA 2	Kimia Farma No. 46 JAYA 2	Kimia Farma					
+2	2FY1	Ap. Kimia Farma No. 21 Yogyakarta	Kimia Farma No. 21 Yogyakarta	Kimia Farma					
+2	2G00	Guardian Pusat	Pusat	Guardian					
+2	2GAD	Guardian Tanjung Duren	Tanjung Duren	Guardian					
+2	2GAR	Guardian Hero Arif Rahman Hakim	Hero Arif Rahman Hakim	Guardian					
+2	2GAT	Guardian Aston Taman Rasuna Said	Aston Taman Rasuna Said	Guardian					
+2	2GBB	Guardian Hero Banjar Baru	Hero Banjar Baru	Guardian					
+2	2GBG	Guardian Mall Bali Galeria	Mall Bali Galeria	Guardian					
+2	2GBJ	Guardian BG Junction Surabaya	BG Junction Surabaya	Guardian					
+2	2GBM	Guardian Blok-M Plaza	Blok-M Plaza	Guardian					
+2	2GBP	Guardian Balikpapan Plaza	Balikpapan Plaza	Guardian					
+2	2GBS	Guardian Bandung Supermall	Bandung Supermal	Guardian					
+2	2GBT	Guardian Hero Bintaro Plaza	Hero Bintaro Plaza	Guardian					
+2	2GCJ	Guardian Cibubur Junction	Cibubur Junction						
+2	2GCP	Guardian Hero Cipinang	Hero Cipinang	Guardian					
+2	2GCR	Guardian Plaza Cibubur 2	Plaza Cibubur 2	Guardian					
+2	2GCS	Guardian Candi Semarang	Candi Semarang	Guardian					
+2	2GDK	Guardian Dhoho Kediri	Dhoho Kediri	Guardian					
+2	2GDM	Guardian Daan Mogot	Daan Mogot	Guardian					
+2	2GET	Guardian Metropolitan Mall 2	Metropolitan Mall 2	Guardian					
+2	2GEX	Guardian Galaxy Extension	Galaxy Extension	Guardian					
+2	2GGB	Guardian Hero Giant Bekasi Mall	Hero Giant Bekasi Mall	Guardian					
+2	2GGL	Guardian Giant Lindeteves Jakarta	Giant Lindeteves Jakarta	Guardian					
+2	2GGM	Guardian Galaksi Mall Surabaya	Galaksi Mall Surabaya	Guardian					
+2	2GGS	Guardian Hero Gunung Sahari	Hero Gunung Sahari	Guardian					
+2	2GHD	Guardian Hero Darmawangsa	Hero Darmawangsa	Guardian					
+2	2GHG	Guardian Hero Gunung Sahari	Hero Gunung Sahari	Guardian					
+2	2GHS	Guardian Hero Sarinah Thamrin	Hero Sarinah Thamrin	Guardian					
+2	2GIG	Guardian Green Garden	Green Garden	Guardian					
+2	2GKB	Guardian Kuta Side Walk Bali	Kuta Side Walk Bali	Guardian					
+2	2GKG	Guardian Mall Kelapa Gading	Mall Kelapa Gading	Guardian					
+2	2GKS	Guardian Kuta 45 Bali 	Kuta 45 Bali	Guardian	Kuta Square Bali				
+2	2GLC	Guardian Hero Lippo City	Hero Lippo City	Guardian					
+2	2GLK	Guardian Lippo Karawaci	Lippo Karawaci	Guardian					
+2	2GLL	Guardian Hero Lebak Bulus	Hero Lebak Bulus	Guardian					
+2	2GLZ	Guardian Hero Legian Ground Zero	Legian Ground Zero	Guardian					
+2	2GMA	Guardian Mall Ambarukmo Yogyakarta	Mall Ambarukmo Yogyakarta	Guardian					
+2	2GMC	Guardian Giant Margocity Depok	Giant Margocity Depok	Guardian					
+2	2GMG	Guardian Menteng	Menteng	Guardian					
+2	2GMJ	Guardian Galeria Mall Yogyakarta	Galeria Mall Yogyakarta	Guardian					
+2	2GMP	Guardian Hero Mega Mall Pluit	Mega Mall Pluit	Guardian					
+2	2GMQ	Guardian Manado Town Square	Manado Town Square	Guardian					
+2	2GMS	Guardian Maspion Square Surabaya	Maspion Square Surabaya	Guardian					
+2	2GMT	Guardian Mall Taman Anggrek	Mall Taman Anggrek	Guardian					
+2	2GMU	Guardian Sun Plaza Medan	Sun Plaza Medan	Guardian					
+2	2GNR	Guardian Thamrin Plaza Medan	Thamrin Plaza Medan	Guardian					
+2	2GNS	Guardian Mall Taman Anggrek Lt.2	Mall Taman Anggrek Lt.2	Guardian					
+2	2GOR	Guardian Pakubuwono Apartemen	Pakubuwono Apartemen	Guardian					
+2	2GPA	Guardian Hero Pasaraya Blok-M	Hero Pasaraya Blok-M	Guardian					
+2	2GPB	Guardian Puri Bintaro	Puri Bintaro	Guardian					
+2	2GPC	"Guardian Pondok Candra,Surabaya"	"Pondok Candra,Surabaya"	Guardian					
+2	2GPD	Guardian Mall Pondok Indah	Mall Pondok Indah	Guardian					
+2	2GPI	Guardian Plaza Indonesia	Plaza Indonesia	Guardian					
+2	2GPM	Guardian Plaza Medan Fair 	Plaza Medan Fair	Guardian					
+2	2GPO	Guardian Posindo Banjarmasin	Posindo Banjarmasin	Guardian					
+2	2GPP	Guardian Hero Ekalokasari Bogor	Ekalokasari Bogor	Guardian		GPE Padjajaran Bogor			
+2	2GPQ	Guardian Panakkukang Square Makasar	Panakkukang Square Makasar	Guardian					
+2	2GPS	Guardian Plasa Senayan	Plasa Senayan	Guardian					
+2	2GPU	Guardian Hero Puri Indah Mall	Puri Indah Mall	Guardian					
+2	2GRI	Guardian Mall Ratu Indah Makassar	Mall Ratu Indah Makassar	Guardian					
+2	2GRS	Guardian Apartemen Rasuna Said Tower 9 lt.4	Apartemen Rasuna Said Tower 9 lt.4	Guardian					
+2	2GSB	Guardian Plaza Setia Budi	Plaza Setia Budi	Guardian					
+2	2GSC	Guardian Sun City Sidoarjo	Sun City Sidoarjo	Guardian					
+2	2GSGS	Guardian Hero Gatot Subroto	Hero Gatot Subroto	Guardian					
+2	2GSIC	Guardian Hero Citraland	Hero Citraland	Guardian					
+2	2GSM	Guardian Mall Mesra Samarinda	Mall Mesra Samarinda	Guardian					
+2	2GSN	Guardian Senayan City	Senayan City	Guardian					
+2	2GSMT	Guardian Shop In Mall Taman Anggrek	Shop In Mall Taman Anggrek	Guardian					
+2	2GSPA	Guardian Hero Pasaraya Grande	Hero Pasaraya Grande 	Guardian					
+2	2GSP	Guardian Sudirman Place	Sudirman Place	Guardian					
+2	2GSPD	Guardian Shop In Mall Pondok Indah	Shop In Mall Pondok Indah	Guardian					
+2	2GST	Guardian Giant Serpong Town Square	Giant Serpong Town Square	Guardian					
+2	2GSW	Guardian Pakuwon Supermall Surabaya	Pakuwon Supermall Surabaya	Guardian					
+2	2GSY	Guardian Plaza Surabaya - SBY 	Plaza Surabaya-SBY	Guardian					
+2	2GTP	Guardian Tunjungan Plaza Surabaya	Tunjungan Plaza Surabaya	Guardian					
+2	2GUA	Guardian Hero Kemang	Hero Kemang	Guardian					
+2	2GVL	Guardian Giant Villa Melati Mas	Hero Giant Villa Melati Mas	Guardian					
+2	2GWM	Guardian Santa Wolter Monginsidi	Santa Wolter Monginsidi	Guardian					
+2	2GZS	Guardian Hero Plaza Semanggi	Hero Plaza Semanggi	Guardian					
+2	2H00	AP. Mahakam	AP. Mahakam	AP.					
+2	2HPE	AP. Pela	Ap. Pela ( PT. Pela Subaka Farma )	Ap.					
+2	2HSE	AP. Senopati	Senopati	AP.					
+2	2ITF	AP. FIT	FIT	AP.					
+2	2JHK	Apotik Medika Plz Hotel Kartika Chandra	Medika Plz Hotel Kartika Chandra	Medika Plaza					
+2	2JMP	Apotik Medika Plz Soekarno-Hatta International Airport	Medika Plz Soekarno-Hatta International Airport	Medika Plaza					
+2	2JMK	Apotik Medika Plz Menara Kuningan	Medika Plz Menara Kuningan	Medika Plaza					
+2	2JPB	Apotik Medika Plz Balikpapan	Medika Plz Balikpapan	Medika Plaza					
+2	2K00	AP. Kencana Raya	AP. Kencana Raya	AP.				19-Jun-03	
+2	2M00	Mel. Pusat	 Pusat	Mel.					
+2	2M01	Mel. 01	01	Mel.					
+2	2M02	Mel. 02	02	Mel.					
+2	2M03	Mel. 03	03	Mel.					
+2	2M04	Mel. 04	04	Mel.					
+2	2M06	Mel. 06	06	Mel.					
+2	2M07	Mel. 07	07	Mel.					
+2	2M08	Mel. 08	08	Mel.					
+2	2M09	Mel. 09	09	Mel.					
+2	2M10	Mel. 10	10	Mel.					
+2	2M12	Mel. 12	12	Mel.					
+2	2M13	Mel. 13	13	Mel.					
+2	2M15	Mel. 15	15	Mel.					
+2	2M16	Mel. 16	16	Mel.					
+2	2M17	Mel. 17	17	Mel.					
+2	2M18	Mel. 18	18	Mel.					
+2	2M19	Mel. 19	19	Mel.					
+2	2M21	Mel. 21	21	Mel.					
+2	2P00	PT. Pharos Indonesia	Pharos Indonesia	PT.					
+2	2S00	Med.Shoppe Pusat	Pusat	Medicine Shoppe					
+2	2SAN	Med.Shoppe Sunter	Sunter	Medicine Shoppe					
+2	2SAT	Med.Shoppe Atrium	Atrium	Medicine Shoppe					
+2	2SCS	Med.Shoppe Citra Sehat	Citra Sehat	Medicine Shoppe					
+2	2SCW	Med.Shoppe Country Wood	Country Wood	Medicine Shoppe					
+2	2SKF	Med.Shoppe Franchise Kartika Farma Bekasi	Kartika Farma Bekasi	Medicine Shoppe					
+2	2SKM	Med.Shoppe Koperasi Mandiri	Koperasi Mandiri	Medicine Shoppe					
+2	2SK1	Med.Shoppe Kawasan 1	Kawasan 1	Medicine Shoppe					
+2	2SMD	Med.Shoppe Franchise Metro Duta	Metro Duta	Medicine Shoppe					
+2	2SMM	Med.Shoppe Metro Medika	Metro Medika	Medicine Shoppe					
+2	2SMT	Med.Shoppe Menteng	Menteng	Medicine Shoppe					
+2	2SPR	Med.Shoppe Pola Ragunan	Pola Ragunan	Medicine Shoppe					
+2	2SRD	Med.Shoppe Radio Dalam	Radio Dalam	Medicine Shoppe					
+2	2SSF	Med.Shoppe Asri Farma	Asri Farma	Medicine Shoppe					
+2	2SSO	Med.Shoppe Satrio Jakarta	Satrio Jakarta	Medicine Shoppe					
+2	2SSP	Med.Shoppe Salma Putra	Salma Putra	Medicine Shoppe					
+2	2STB	Med.Shoppe Tebet	Tebet 	Medicine Shoppe					
+2	2SYM	Med.Shoppe Franchise Yasty Medika Kebun Jeruk	Franchise Yasty Medika Kebun Jeruk	Medicine Shoppe					
+2	2T00	Apotik Taman Solo	Taman Solo	Tam.					
+2	2W00	Watsons Pusat	Pusat	Watsons					
+2	2WCL	Watsons Mall Citraland	Mall Citraland	Watsons					
+2	2WKG	Watsons Mall Kelapa Gading 3	Mall Kelapa Gading 3	Watsons					
+2	2WPI	Watsons Mall Pondok Indah 2	Mall Pondok Indah 2	Watsons					
+2	2WSK	Watsons Supermall Karawaci	Supermall Karawaci	Watsons					
+2	2X00	Rox. Pusat	Pusat	Rox.					
+2	2XBA	Rox. Blok A	Blok A	Rox.					
+2	2XBI	Rox. Biak	Biak	Rox.					
+2	2XBK	Rox. Bekasi	Bekasi	Rox.					
+2	2XCP	Rox. Cipulir	Cipulir	Rox.					
+2	2XJB	Rox. Jatibaru	Jatibaru	Rox.					
+2	2XKA	Rox. Keamanan	Keamanan	Rox.					
+2	2XKL	Rox. Klender	Klender	Rox.					
+2	2XMA	Rox. Mauk	Mauk	Rox.					
+2	2XMB	Rox. Mangga Besar	Mangga Besar	Rox.					
+2	2XPA	Rox. Pademangan	Pademangan	Rox.					
+2	2XTD	Rox. Tanjung Duren	Tanjung Duren	Rox.					
+2	2Z00	Apotik Potenza	Potenza	AP.					
+3	3ADV	PT. Advance	Advance	PT.					
+3	3HGW	Honggiwa Store 	Honggiwa Store	Store					
+3	3OGA	PT. Ogawa	Ogawa	PT.					
+3	3TMI	CV. Top Master International	Top Master International	CV.	Facial Center	Bp. Roni Poniman	President Dir.		
+3	3TPS	PT. Tiara Permata Sari	Tiara Permata Sari						
+4	4ABO	PT. Abbott Indonesia	Abbott Indonesia	PT.					
+4	4BAY	PT. Bayer Indonesia	Bayer Indonesia	PT.					
+4	4BIN	PT. Binaraga	Binaraga	PT.					
+4	4BOA	PT. Boehringer (Pontianak)	Boehringer (Pontianak)	PT.					
+4	4BOB	PT. Boehringer (Bandung)	Boehringer (Bandung)	PT.					
+4	4BOBT	PT. Boehringer (Batam)	Boehringer (Batam)	PT.					
+4	4BOC	PT. Boehringer (Aceh)	Boehringer (Aceh)	PT.					
+4	4BOCN	PT. Boehringer (Cirebon)	Boehringer (Cirebon)	PT.					
+4	4BOD	PT. Boehringer (Manado)	Boehringer (Manado)	PT.					
+4	4BODR	PT. Boehringer (Kediri)	Boehringer (Kediri)	PT.					
+4	4BOE	PT. Boehringer (Denpasar)	Boehringer (Denpasar)	PT.					
+4	4BOG	PT. Boehringer (Lampung)	Boehringer (Lampung)	PT.					
+4	4BOJ	PT. Boehringer (Jkt)	Boehringer (Jkt)	PT.					
+4	4BOJB	PT. Boehringer (Jambi)	Boehringer (Jambi)	PT.					
+4	4BOJE	PT. Boehringer (Jember)	Boehringer (Jember)	PT.					
+4	4BOJP	PT. Boehringer (Jayapura)	Boehringer (Jayapura)	PT.					
+4	4BOJR	PT. Boehringer (Banjarmasin)	Boehringer (Banjarmasin)	PT.					
+4	4BOK	PT. Boehringer (Makassar)	Boehringer (Makassar)	PT.					
+4	4BOKD	PT. Boehringer (Kendari)	Boehringer (Kendari)	PT.					
+4	4BOL	PT. Boehringer (Palembang)	Boehringer (Palembang)	PT.					
+4	4BOM	PT. Boehringer (Medan)	Boehringer (Medan)	PT.					
+4	4BOMA	PT. Boehringer (Malang)	Boehringer (Malang)	PT.					
+4	4BON	PT. Boehringer (Balikpapan)	Boehringer (Balikpapan)	PT.					
+4	4BOO	PT. Boehringer (Solo)	Boehringer (Solo)	PT.					
+4	4BOP	PT. Boehringer (Padang)	Boehringer (Padang)	PT.					
+4	4BOR	PT. Boehringer (Smg)	Boehringer (Smg)	PT.					
+4	4BOS	PT. Boehringer (Sby)	Boehringer (Sby)	PT.					
+4	4BOSG	PT. Boehringer (Sorong)	Boehringer (Sorong)	PT.					
+4	4BOT	PT. Boehringer (Tegal)	Boehringer (Tegal)	PT.					
+4	4BOU	PT. Boehringer (Pakanbaru)	Boehringer (Pakanbaru)	PT.					
+4	4BOY	PT. Boehringer (Jogja)	Boehringer (Jogja)	PT.					
+4	4CLS	PT. Customer Loyalty Solutions	Customer Loyalty Solutions	PT.		Bp. Basir			
+4	4CNI	PT. Citra Nusa Insan Cemerlang	Citra Nusa Insan Cemerlang	PT.					
+4	4DEX	PT. Dexa Medica	Dexa Medica	PT.					
+4	4DNR	PT. Dos Ni Roha	Dos Ni Roha	PT.					
+4	4EPM	PT. Enseval Putera Megatrading	Enseval Putera Megatrading	PT.					
+4	4FAH	PT. Fahrenheit	Fahrenheit	PT.		Bp. Basir			
+4	4FER	PT. Ferron	Ferron	PT.					
+4	4FFI	PT. Frisian Flag Indonesia	Frisian Flag Indonesia	PT.					
+4	4INC	PT. Incontech	Incontech	PT.					
+4	4INT	PT. Interbat	Interbat	PT.					
+4	4KAF	PT. Kalbe Farma	Kalbe Farma	PT.					
+4	4LAP	PT. LAPI LABORATORIES	Lapi Laboratories	PT.					
+4	4M00	PT. Merck	Merck	PT.					
+4	4M00II	PT. Merck II ( Multi Redjeki )	Merck II (Multi Redjeki Kita )	PT.					
+4	4MCP	PT. Clinisindo Putra Perkasa	Clinisindo Putra Perkasa	PT.					
+4	4MED	PT. Medifarma	Medifarma	PT.					
+4	4MUR	PT. Multi Redjeki Kita	Multi Redjeki Kita	PT.					
+4	4NOV	PT. Novartis	Novartis	PT.					
+4	4NTR	PT. Nutrexindo Prima	Nutrexindo Prima	PT.					
+4	4NUT	PT. Nutrifood	Nutrifood	PT.					
+4	4OTS	PT. Otsuka Indonesia	Otsuka Indonesia	PT.					
+5	5PAL	PT. Primax Asia Line	Primax Asia Line	PT.					
+4	4PHA	PT. Pharos Indonesia	Pharos Indonesia	PT.					
+4	4RNI	PT. Rajawali Nusantara Indonesia	Rajawali Nusantara Indonesia	PT.					
+4	4ROC	PT. Roche Indonesia	Roche Indonesia	PT.				23-Jun-03	
+4	4SAN	PT. Sanbe Farma	Sanbe Farma	PT.					
+4	4SAP	PT. Sanghiang Perkasa	Sanghiang Perkasa	PT.					
+4	4SOH	PT. Soho Industri Pharmasi	Soho Industri Pharmasi	PT.					
+4	4TAI	PT. Takeda Indonesia	Takeda Indonesia	PT.					
+4	4TRS	PT. Tropicana Slim	Tropicana Slim	PT.					
+4	4TSF	PT. Tunggal Sila Farma	Tunggal Sila Farma	PT.					
+5	5ABD	RS. Abdi Waluyo	Abdi Waluyo	RS.					
+5	5ANA	RS. Ananda	Ananda	RS.					
+5	5ANJ	PT. Austindo Nusantara Jaya 	Austindo Nusantara Jaya 	PT.	Kl.Diabetes Nusantara ( Sama ) .				
+5	5ASI	Klinik Annaku (PT.Anak Sehat Indonesia)	Annaku (PT.Anak Sehat Indonesia)	KL.					
+5	5ATM	RS. Atmajaya	Atmajaya	RS. 					
+5	5BGM	RS. Pondok Indah (PT.Binara Guna Mediktama )	RS. Pondok Indah (PT.Binara Guna Mediktama )	RS					
+5	5BOM	RS. Bogor Medical	Bogor Medical	RS					
+5	5CEN	Poli Cendrawasih RSCM	Cendrawasih RSCM	Poli					
+5	5CIP	RS. Cipto Mangunkusumo	Cipto Mangunkusumo	RS.					
+5	5CIR	RS. THT Ciranjang	THT Ciranjang	RS.					
+5	5DEM	RSB. Dewi Mulia	Dewi Mulia	RSB.					
+5	5DGT	Klinik Diabetes & Gizi Pusk.Tebet	Diabetes & Gizi Pusk.Tebet	KL.					
+5	5DIA	Dr. Diana	Diana	CL.		Dr. Diana			
+5	5DMB	Klinik Diabetes RS.Marzoeki Mahdi Bogor	Diabetes RS.Marzoeki Mahdi Bogor	KL.	DMM ( Sama)				
+5	5DPR	Klinik DPR	DPR	KL.					
+5	5END	Poliklinik Endokrin (Penyakit Dalam) RSCM	Endokrin (Penyakit Dalam) RSCM	KL.					
+5	5EVA	RSIA. Evasari	Evasari	RSIA.					
+5	5FAD	Dr. Fadran (Jambi)	Fadran (Jambi)	Dr.		Dr. Fadran (Jambi)			
+5	5FAT	RS. Fatmawati	Fatmawati	RS. 					
+5	5GAN	RS. Gandaria	Gandaria	RS. 					
+5	5GAP	RS. Gading Pluit 	Gading Pluit 	RS.					
+5	5GAS	RSPAD Gatot Subroto	Gatot Subroto	RS					
+5	5GNA	Klinik Griya Natura	Griya Natura	KL.					
+5	5HAJ	RS. Haji Jakarta	Haji Jakarta	RS.					
+5	5HAM	Poliklinik Balitbang HAM	Balitbang HAM	KL.					
+5	5HAR	RSAB. Harapan Kita	Harapan Kita	RS. 					
+5	5HJK	RS. Harapan Jayakarta	Harapan Jayakarta	PT.					
+5	5HOL	Klinik Holicare	Holicare	KL.					
+5	5HON	RS. Honoris	Honoris	RS. 					
+5	5HOO	AP. Honoris	Honoris	RS.					
+5	5HUI	RS. Husada Insani	Husada Insani	RS.		Dr. Trisna			
+5	5HUS	RS. Husada	Husada	RS.					
+5	5IDI	IDI Jakarta Barat	IDI Jakarta Barat						
+5	5IFI	Instalasi Farmasi RS.Islam Jak-Timur	Farmasi RS.Islam Jak-Timur	Instalasi					
+5	5IJP	RS. Islam Jakarta Pusat	Islam Jakarta Pusat	RS. 					
+5	5IJT	RS. Islam Jakarta Timur	Islam Jakarta Timur	RS. 					
+5	5IGM	PT. Indofarma Global Medika	Indofarma Global Medika	PT.	Dari 4IGM				
+5	5IKP	KDK FKUI Kayu Putih	KDK FKUI Kayu Putih	CL.		Dr. Asti			
+5	5IMC	Klinik Insani Medical Centre	Insani Medical Centre	KL.					
+5	5JAA	AP. Jantung	Jantung	RS. 					
+5	5JAN	RS. Jantung	Jantung	RS. 					
+5	5JKM	Klinik Jakarta Kyoai Medical Center	Jakarta Kyoai Medical Center	KL.					
+5	5KAH	RS. Kasih Herlina	Kasih Herlina	RS. 					
+5	5KAI	Klinik Asma Indrajan	Asma Indrajana	KL.					
+5	5KAM	RS. Karya Medika	Karya Medika	RS. 					
+5	5KAP	RS. Kartika Pulomas	Kartika Pulomas	RS. 					
+5	5KDN	Kl.Diabetes Nusantara (PT.Austindo Nusantara Jaya)	Diabetes Nusantara (PT.Austindo Nusantara Jaya)	KL.	5ANJ == SAMA .				
+5	5KGA	Klinik Gereja 17 Arnoldus	Gereja 17 Arnoldus	KL.					
+5	5KHA	Lab. Klinik Halim	Halim	KL.					
+5	5KHU	Klinik Husada Insani	Husada Insani	KL.					
+5	5KIB	Klinik Ibunda	Ibunda	KL.					
+5	5KJM	Klinik Jasa Marga	Jasa Marga	KL.					
+5	5KKK	Klinik Keluarga Kita	Keluarga Kita	KL.					
+5	5KLA	Klinik Anggrek	Anggrek	KL.					
+5	5KMK	Klinik Medikarya	Medikarya	KL.					
+5	5KMP	Klinik Medika Plaza	Medika Plaza	KL.					
+5	5KPJ	Klinik Pangeran Jayakarta	Pangeran Jayakarta	KL.					
+5	5KPM	Klinik Paramitha Mampang	Paramitha Mampang	KL.					
+5	5KPR	Apotik KPRI RSCM	KPRI RSCM	AP.					
+5	5KSI	RS. Kasih Ibu	Kasih Ibu	RS.					
+5	5KSS	Klinik Sukma Sakti	Sukma Sakti	KL.					
+5	5MAM	KL. Mahajaya Medical	Mahajaya Medical	KL.		Dr. Yosep		21-Aug-03	Savanah
+5	5MDP	PT. Medipia	Medipia	PT.	Dari 0MED				
+5	5MDS	RS. Medistra	Medistra	RS.					
+5	5MEC	RS. Meilia Cibubur (PT.Karya Empat Bersaudara)	Meilia Cibubur (PT.Karya Empat Bersaudara)	RS.					
+5	5MED	RS. Mediros	Mediros	RS. 					
+5	5MHT	RS. MH Tamrin Internasional Salemba 	MH Tamrin Internasional Salemba	RS. 		Dr. Bedjo			
+5	5MKM	RS. Mitra Kemayoran	Mitra Kemayoran	RS.					
+5	5MMA	RS. Menteng Mitra Afia	Menteng Mitra Afia	RS.					
+5	5MMF	PT. Megah Medika Farma (RS.Pertamina Jaya)	Megah Medika Farma (RS.Pertamina Jaya)	RS.	Dari 0MMF				
+5	5MMU	Ap.RS. Pantai Indah Kapuk (PT.Mandara Medika Utama)	RS. Pantai Indah Kapuk (PT. Mandara Medika Utama)	aP.					
+5	5MNK	Klinik Mata Nusantara Kemayoran	Mata Nusantara Kemayoran	KL.					
+5	5MPH	RS. Medika Permata Hijau	Medika Permata Hijau	RS. 					
+5	5MUT	Klinik Mutiara	Mutiara	KL.					
+5	5NOI	Poliklinik Cendrawasih RSCM	Cendrawasih RSCM	KL.					
+5	5PDL	Klinik Pusat Diabetes & Lipid RSCM	Pusat Diabetes & Lipid RSCM	KL.					
+5	5PEJ	RS. Pertamina Jaya	Pertamina Jaya	RS.					
+5	5PEL	RS. Pelabuhan	Pelabuhan	RS. 					
+5	5PER	RS. Persahabatan	Persahabatan	RS. 					
+5	5PII	RS. Pantai Indah Kapuk (PT.Mandara Medika Utama)	Pantai Indah Kapuk (PT.Mandara Medika Utama)	RS. 					
+5	5PIK	RS. Pantai Indah Kapuk	Pantai Indah Kapuk	RS. 					
+5	5PJB	Puskesmas Johar Baru	Johar Baru	Pus.					
+5	5PJS	Klinik Patra Jasa	Patra Jasa	KL.					
+5	5PLN	RS. Pelni	Pelni	RS. 					
+5	5PMS	Klinik Pulomas	Pulomas	KL.					
+5	5PNT	Perinatologi RSCM	Perinatologi RSCM	RS.					
+5	5POG	Poli Geriarti RSCM	Poli Geriarti RSCM	RS.					
+5	5POL	RS. Polri	Polri	RS.					
+5	5POM	RS. Port Medical	Port Medical	RS. 					
+5	5PON	Poli Neurologi RSCM	Poli Neurologi RSCM	RS. 					
+5	5PPC	Puskesmas Pancoran	Pancoran	Pus.					
+5	5PRK	RS. Proklamasi	Proklamasi	RS.					
+5	5PRO	Laboratorium Prodia	Prodia	LB.					
+5	5PTH	PT. PATHLAB Indonesia	PATHLAB Indonesia	PT.					
+5	5PUR	RS. Puri Medika	Puri Medika	RS.					
+5	5PUS	RS. Pusdikkes	Pusdikkes	RS.					
+5	5PUT	RS. Putri	Putri	RS.					
+5	5RAW	RS. Rawamangun	Rawamangun	RS. 					
+5	5RES	PT. Restu Ibu Sejati (RS Harapan Kita)	Restu Ibu Sejati (RS Harapan Kita)	PT.	Dari 0RES				
+5	5ROS	Klinik Rosella	Rosella	KL.					
+5	5RPP	RS. Pusat Pertamina	Pusat Pertamina	RS. 					
+5	5RSC	RSUD Kota Cilegon	Kota Cilegon	RS					
+5	5RSG	RSU. Dr. Slamet Garut	Slamet Garut	RS					
+5	5RSU	RSU Tangerang	Tangerang	RS.					
+5	5SAA	RS. Sari Asih Tangerang	Sari Asih Tangerang	RS. 					
+5	5SAAII	RS. Sari Asih Ciledug	Sari Asih Ciledug	RS. 					
+5	5SAAIII	RS. Sari Asih Sanghiang	Sari Asih Sanghiang	RS. 					
+5	5SAC	RS. Saraswati Cikampek	Saraswati Cikampek	RS. 		Dr. Krisna			
+5	5SCA	RS. St. Carolus	St. Carolus	RS. 					
+5	5SEM	RS. Setia Mitra	Setia Mitra	RS. 					
+5	5SEP	LB. Klinik Selekta Prima	Klinik Selekta Prima	LB.					
+5	5SHR	RS. Suharto Herdjan	Suharto Herdjan	RS.					
+5	5SIL	RS. Siloam	Siloam	RS.					
+5	5SLM	RS. Seoul Medical	Seoul Medical	RS.					
+5	5SSO	RS. PI.Sulianti Saroso	Pl.Sulianti Saroso	RS.					
+5	5SUW	RS. Sumber Waras	Sumber Waras	RS. 					
+5	5TDP	RS. Tria Dipa	Tria Dipa	RS. 					
+5	5TEB	RS. TEBET	TEBET	RS. 					
+5	5TON	Dr. Toni	Toni	Dr.		Dr. Toni			
+5	5TUI	RS. Tugu Ibu	Tugu Ibu	Rs.					
+5	5UID	KFK UI Depok	UI Depok						
+5	5VEL	Klinik Velda	Velda	KL.					
+5	5YCT	RS. Yayasan Caritas Timika	Yayasan Caritas Timika 	RS.					
+5	5YKM	RS. Yayasan Karya Medika	Yayasan Karya Medika	RS. 					
+5	5YKMII	RS. Yayasan Karya Medika II	Yayasan Karya Medika II	RS. 					
+6	6100	PT. Amway	Amway	PT.	Jangan pakai				
+6	61JK	PT. Amway Jakarta	Amway Jakarta	PT.					
+6	61SB	PT. Amway Surabaya	Amway Surabaya	PT.					
+6	6BCA	BCA	BCA	PT.					
+6	6BLP	Bank Lippo	Bank Lippo	PT.					
+6	6BMA	Bank Mandiri	Mandiri	PT.					
+6	6BRB	Fitness Club Hotel Borobudur	Fitness Club Hotel Borobudur	Fitn.					
+6	6CEL	Fitness Celebritis	Fitness Celebritis	Fitn.					
+6	6EGE	PT. Global Erasmas	Global Erasmas	PT.					
+6	6GEI	GE Finance Indonesia	GE Finance Indonesia						
+6	6HYP	Pusat Keselamatan Kerja & Hyperkest	Keselamatan Kerja & Hyperkest	PT.					
+6	6MEP	PT. Mega Product	Mega Product	PT.					
+6	6NIA	Bank Niaga	Niaga	PT.					
+7	7ATM	Atmajaya Expo	Atmajaya	Expo					
+7	7BKE	Balai Komando Expo	Balai Komando Expo	Expo					
+7	7BPI	AKBID Bakti Pertiwi Indonesia	Bakti Pertiwi Indonesia	AKBID					
+7	7BPT	BPPT	BPPT	Dep.					
+7	7BOR	Borobudur Expo	Borobudur	Expo					
+7	7CBC	Cita Beauty Centre	Cita Beauty Centre						
+7	7CGM	PRJ Cap Go Meh	Cap Go Meh	PRJ					
+7	7DCP	Perkemahan Diabetes Nasional 2007	Perkemahan Diabetes Nasional 2007	Seminar					
+7	7DDN	DEPDIKNAS	DEPDIKNAS	Dep.		Bp. Ono			
+7	7DEP	DEPKES	DEPKES	Dep.					
+7	7DKS	Dinas Kesehatan Kotamadya Bekasi	Dinas Kesehatan Kotamadya Bekasi	DinKes					
+7	7ECE	Electronic City Expo	Electronic Expo	Expo					
+7	7FAS	PT. Fastindo Piranti	Fastindo Piranti	Gift					
+7	7FOR	For More Indonesia	For More Indonesia						
+7	7GKB	Penyuluhan Diabetes (Gereja Kristen Batak)	Diabetes (Gereja Kristen Batak)	Penyuluhan					
+7	7HER	PT. Herbalife	Herbalife	PT.					
+7	7HOS	Hospital Expo	Hospital Expo						
+7	7HTM	Pameran Hotel Mercure	Hotel Mercure	Pameran					
+7	7JAN	Jantung Expo	Jantung Expo	Expo					
+7	7JFE	Jakarta Fair Expo	Jakarta Fair	Expo					
+7	7KAP	RS. Kapuk Expo	Kapuk Expo	Expo					
+7	7KWA	Korean Women's Association	Korean Women's Association	Promotion					
+7	7MAR	PT. Marfindo	Marfindo	PT.					
+7	7MBG	My Body Gym	My Body Gym						
+7	7MBP	MABES POLRI	MABES POLRI	Promotion					
+7	7MEN	MENPORA EXPO	MENPORA	Expo					
+7	7OMR	PT. Omron Electronics 	Omron Electronics	PT.				22-Aug-03	
+7	7PAS	PASTI EXPO	PASTI 	Expo					
+7	7PDP	Perhimpunan Dokter & Paramedis Dept.Hukum & Ham	Perhimpunan Dokter & Paramedis Dept.Hukum & Ham	Promotion					
+7	7PDS	Pelatihan Diabetes (Citra Cikopo Hotel)	Pelatihan Diabetes (Citra Cikopo Hotel)	Promotion					
+7	7PEE	Permapkin Expo	Permapkin Expo						
+7	7PER	PERSADIA	PERSADIA	Promotion					
+7	7RCE	Ritz Carlton Expo	Ritz Carlton Expo	Expo					
+7	7SAE	Sahid Expo	Sahid Expo						
+7	7SBK	Senam Bersama Klinik Diabetes	Klinik Diabetes	Senam					
+7	7SBS	Seminar Budi Sehat	Budi Sehat	Seminar					
+7	7SEM	Semanggi Expo	Semanggi Expo	Expo					
+7	7SEN	Senayan Expo	Senayan Expo	Expo					
+7	7SHJ	Seminar RS.Haji Jakarta	Haji Jakarta	Seminar					
+7	7SMU	Pameran SMUK Sang Timur	SMUK Sang Timur	Seminar					
+7	7SOL	Solo Expo	Solo Expo	Expo					
+7	7SSD	Seminar Sehari Diabetes	Sehari Diabetes	Seminar					
+7	7SUT	Seminar Universitas Trisakti	Universitas Trisakti	Seminar					
+7	7VRA	Villa Renata Expo	Villa Renata	Expo					
+7	7YJI	Anniversary Yayasan Jantung Indonesia	Yayasan Jantung Indonesia	Anniversary					
+8	8ABD	Bp. Abdul Haris	Abdul Haris	Bp.					
+8	8AGU	Bp. Agus	Agus	Bp.					
+8	8AND	Dr. Andrian (RSPAD)	Andrian (RSPAD)	Dr.					
+8	8ANI	Ibu Ani (ST.Carolus)	Ani (ST.Carolus)	Ibu					
+8	8ARI	Bp. Arif	Arif	Bp.					
+8	8ASW	Dr. Aswan (RS.Karya Medika)	Aswan (RS.Karya Medika)	Dr.					
+8	8BAM	Dr. Bambang (RS.Jakarta)	Bambang (RS.Jakarta)	Dr.					
+5	5BAS	RS. Bhakti Asih	Bhakti Asih	RS.					
+8	8BEN	Dr. Benny 	Benny	Dr.					
+8	8DEB	Dr. Deby	Deby	Dr.					
+8	8DEL	Ibu Delmi	Delmi	Ibu					
+8	8DEW	Ibu Dewi (Guardian)	Dewi (Guardian)	Ibu					
+8	8DJU	Dr. Djujur	Djujur	Dr.					
+8	8DWI	Ibu Dwi (Boehringer Jkt)	Dwi (Boehringer Jkt)	Ibu					
+8	8ELI	Ibu Eli (RS.Jantung)	Eli (Jantung)	Ibu					
+8	8FAR	Dr. Farida	Farida	Dr.					
+8	8FER	Dr. Fera (RSCM)	Fera (RSCM)	Dr.					
+8	8HAN	Dr. Hanna (RS Mediros)	Hanna (RS Mediros)	Dr.					
+8	8HEN	Dr. Hendro	Hendro	Dr.					
+8	8IDA	Ibu Ida (Honoris)	Ida (Honoris)	Ibu					
+8	8ISM	Dr. Ismoyo (RS.Jantung)	Ismoyo (Jantung)	Dr.					
+8	8IWA	Dr. Iwan	Iwan	Dr.					
+8	8KOM	Dr. Komala	Komala	Dr.					
+8	8LEE	Mr. Lee	Lee	Mr.					
+8	8LIZ	Dr. Liza H.Bun	Liza H.Bun	Dr.					
+8	8MAN	Dr. Manam	Manam	Dr.					
+8	8MUL	Dr. Mulyadi	Mulyadi	Dr.					
+8	8NOV	Ibu Novi (Poliklinik RSCM)	Novi (Poliklinik RSCM)	Ibu					
+8	8NRI	Dr. Nuri (Klinik FKUI)	Nuri (Klinik FKUI)	Dr.					
+8	8NUR	Bp. Nurhadi	Nurhadi	Bp.					
+8	8PAU	Dr. Paulus	Paulus	Dr.					
+8	8RAT	Bp. Ratno (RS.Atmajaya)	Ratno (RS.Atmajaya)	Bp.					
+8	8RES	Ibu Resmi	Resmi	Ibu					
+8	8RIC	Dr. Ricky (RS.Honoris)	Ricky (RS.Honoris)	Dr.					
+8	8RIK	Ibu Rika (OSI)	Rika (OSI)	Ibu					
+8	8SAM	Bp. Samuel	Samuel	Bp.				21-Jun-03	
+8	8SDI	Ibu Sri (IDI Jakarta Barat)	Sri (IDI Jakarta Barat)	Ibu					
+8	8SHI	Dr. Shinta	Shinta	Dr.					
+8	8SRI	Dr. Sri (Labkes Depkes RI)	Sri (Labkes Depkes RI)	Dr.					
+8	8SUP	Bp. Supri (RS.Atmajaya)	Supri (RS.Atmajaya)	Bp.					
+8	8SUR	Dr. Suripto Hasan (RS. Karya Medika)	Suripto Hasan (RS. Karya Medika)	Dr.					
+8	8SUW	Dr. Suwanta	Suwanta	Dr.					
+8	8SUY	Bp. Suyanto	Suyanto	Bp.					
+8	8TII	Dr. Tri Utomo	Tri Utomo	Dr.					
+8	8TIN	Dr. Tine (RS Pertamina Jaya)	Tine (RS Pertamina Jaya)	Dr.					
+8	8TRI	Ibu Tri (St. Carolus)	Tri (St. Carolus)	Ibu					
+8	8WAH	Dr. Wahyu	Wahyu	Dr.					
+8	8WII	Ibu Wiwi	Wiwi	Ibu					
+8	8WIW	Ibu Wiwid (Cent. D.Best Fatmawati)	Wiwid (Cent. D.Best Fatmawati)	Ibu					
+8	8YUL	Dr. Yulius 	Yulius	Dr.					
+8	8YUN	Bp. Yunus (RS.Pelabuhan)	Yunus (RS.Pelabuhan)	Bp.					
+8	8YUS	Dr. Yustinus	Yustinus	Dr.					
+9	9AAN	Bp. Aan	 Aan	Bp.					
+9	9ABD	Bp. Abdullah	Abdullah	Bp.					
+9	9ABU	Bp. Abun	Abun	Bp.					
+9	9ACI	Ibu Aci	Aci	Ibu					
+9	9ADA	Ibu Ade (PT. ABBOTT)	Ade	Ibu	Kar Mal Puri Indah			2003-07-29	
+9	9ADD	Bp. Andarusdi	Andarusdi	Bp.					
+9	9ADE	Ibu Ade	Ade	Ibu	Kar Mal Puri Indah			2003-07-29	
+9	9ADH	Bp. Adhi	Adhi	Bp.					
+9	9ADI	Ibu Adi	Adi	Bp.					
+9	9ADK	Bp. Adi Kusumo	Adi Kusumo	Bp.					
+9	9ADP	Ibu Andrie (Pancuran)	Andrie (Pancuran)	Ibu					
+9	9ADR	Bp. Adri Manusama	Adri Manusama	Bp.					
+9	9ADV	Ibu Astri Devi	Astri Devi	Ibu					
+9	9AFD	Ibu Alfrida ( Melawai 19 )	Alfrida (Melawai 19)	Ibu					
+9	9AFF	Bp. Affandi	Affandi	Bp.					
+9	9AFU	Bp. Afung	Afung	Bp.					
+9	9AGE	Bp. Ageng	Ageng	Bp.					
+9	9AGN	Bp. Agung (RS Gandaria)	Agung (RS Gandaria)	Bp.					
+9	9AGS	Bp. Agustama (PT.Merck)	Agustama (PT.Merck)	Bp.					
+9	9AGU	Bp. Agus	Agus	Bp.				17-Jun-03	
+9	9AHA	Bp. Ahmad	Ahmad	Bp.					
+9	9AHD	Dr. Ahmad	Ahmad	Dr.					
+9	9AHM	Bp. Ahmadi (Pelabuhan)	Ahmadi (Pelabuhan)	Bp.					
+9	9AID	Dr. Aida (Klinik Diabetes)	Aida	Dr.					
+9	9ALB	Bp. Albert	Albert	Bp.					
+9	9ALD	Bp. Alimudin	Alimudin	Bp.					
+9	9ALF	Dr. HM.Alfin G	HM. Alfin G	Dr.					
+9	9ALW	Bp. Alwi	Alwi	Bp.					
+9	9ALY	Ibu Allysa Harris	Allysa Harris	Ibu					
+9	9AMA	Bp. Ahmad (RS.Jantung)	Ahmad (RS.Jantung)	Bp.					
+9	9AMD	Bp. Ahmad (Ap.Kimia Farma KS Tubun)	Ahmad (Ap.Kimia Farma KS Tubun)	Bp.					
+9	9AME	Ibu Amelia (Bost.Gajah Mada)	Amelia (Bost.Gajah Mada).	Ibu					
+9	9AMG	Bp. Aming	Aming	Bp.					
+9	9AMI	Bp. Amin	Amin	Bp.					
+9	9AMO	Bp. Amorn	Amorn	Bp.					
+9	9AMR	Bp. Amir	Amir	Bp.					
+9	9AMS	Ibu Amos	Amos	Ibu					
+9	9AMY	Ibu Ami	Ami	Ibu					
+9	9ANA	Dr. Ana	Ana	Dr.					
+9	9ANB	Bp. Andri (Boehringer)	Andri (Boehringer)	Bp.					
+9	9ANC	Ibu Ani (Cent.Blue Mall Bekasi)	Ani (Cent.Blue Mall Bekasi)	Ibu					
+9	9AND	Bp. Andi	Andi	Bp.	Kar Century			2003-07-21	
+9	9ANE	Ibu Anne	Anne	Ibu					
+9	9ANG	Ibu Angel	Angel	Ibu					
+9	9ANI	Ibu Ani	Ani	Ibu					
+9	9ANN	Bp. Anan (Ap.Honoris)	Anan (Ap.Honoris)	Bp.					
+9	9ANO	Bp. Anon (Ap.Honoris)	Anon (Ap.Honoris)	Bp.					
+9	9ANR	Bp. Andreas	Andreas	Bp.					
+9	9ANS	Ibu Ani (SC Cent.Citraland)	Ani (SC Cent.Citraland)	Ibu					
+9	9ANT	Bp. Anton	Anton	Bp.					
+9	9ARB	Dr. Arie Bratasena (Kep.Sub Direktorat Haji)	Arie (Kep.Sub Direktorat Haji)	Dr.					
+9	9ARC	Ibu Ari ( Century )	Ari (Century)	Ibu					
+9	9ARE	Bp. Aris (Klinik Exxon Mobil)	Aris (Klinik Exxon Mobil)	Bp.					
+9	9ARF	Bp. Arif	Arif	Bp.					
+9	9ARG	Bp. Aris (RS.Gandaria)	Aris (RS.Gandaria_	Bp.					
+9	9ARI	Bp. Ariandy	Ariandy	Bp.					
+9	9ARL	Ibu Arlita (PT.Sanghiang)	Arlita (PT.Sanghiang)	Ibu					
+9	9ARM	Bp. Arman	Arman	Arman					
+9	9ARS	Bp. Aris (Indoc)	Aris (Indoc)	Bp.					
+9	9ARP	Bp. Arif (RS.Persahabatan)	Arif (RS.Persahabatan)	Bp.					
+9	9ART	Ibu Arita (Klinik Diabetes)	Arita (Klinik Diabetes)	Ibu					
+9	9ARW	Dr. Arif Wibowo	Arif Wibowo	Dr.					
+9	9ASH	Bp. Ashaf Radin	Ashaf Radin	Bp.					
+9	9ASR	Ibu Aster (Kl.Gereja St.Carolus Bks)	Aster (Kl.Gereja St.Carolus Bks)	Ibu					
+9	9ASS	Bp. Ashok Shabu	Ashok Shabu	Bp.					
+9	9AST	Ibu Asti	Asti	Ibu					
+9	9ATT	Ibu Artati (Ap.Jantung)	Artati (Ap.Jantung)	Ibu					
+9	9AUI	Ibu Aulia	Aulia	Ibu					
+9	9AUL	Dr. Aulia	Aulia	Dr.					
+9	9AYU	Ibu Ayu (Indocore)	Ayu (Indocore)	Ibu					
+9	9AYY	Ayu (Cen. Carrefour Lebak Bulus)	Ayu (Cen. Carrefour Lebak Bulus)	Ibu					
+9	9BAK	Bp. Bakti	Bakti  	Bp.					
+9	9BAL	Bp. Bala	Bala	Bp.					
+9	9BAM	Bp. Bambang (Sumber Remedia)	Bambang (Sumber Remedia)	Bp.					
+9	9BBG	Bp. Bambang 	Bambang	Bp.					
+9	9BDI	Ibu Budi (St.Carolus)	Budi (St.Carolus)	Ibu					
+9	9BDS	Dr. Budiarso	Budiarso	Dr.					
+9	9BEN	Bp. Benyamin	Benyamin	Bp.					
+9	9BER	Ibu Berty (RS. Pelabuhan)	Berty (RS. Pelabuhan)	Ibu					
+9	9BET	Ibu Bety (K.Farma KS.Tubun)	Bety (K.Farma KS.Tubun)	Ibu					
+9	9BIN	Dr. Bing Wibisono	Bing Wibisono	Dr.					
+9	9BMS	Bp. Bambang Subono	Bambang Subono	Bp.					
+9	9BNY	Bp. Benny	Benny	Bp.					
+9	9BON	Bp. Boni	Boni	Bp.				13-Jun-03	
+9	9BRN	Ibu Bernand	Bernand	Ibu					
+9	9BRT	Ibu Berty (Watson Pd Indah)	Berty (Watson Pd Indah)	Ibu					
+9	9BTY	Ibu Berty (RS. Evasari)	Berty (RS. Evasari)	Ibu					
+9	9BUD	Bp. Budi	Budi	Bp.				12-Jun-03	
+9	9BUS	Bp. Bustomi	Bustomi	Bp.					
+9	9CAH	Dr. Cahyo (RS. Gandaria)	Cahyo (RS. Gandaria)	Dr.					
+9	9CAN	Bp. Chandra	Chandra	Bp.					
+9	9CAR	Ibu Carlin	Carlin	Ibu					
+9	9CHA	Bp. Chamis	Chamis	Bp.					
+9	9CHO	Mr. Choi	Choi	Mr.					
+9	9CHR	Ibu Christine	Christine	Ibu					
+9	9CIC	Ibu Cici (RS.Sari Asih)	Cici (RS.Sari Asih)	Ibu					
+9	9CIN	Dr. Cindy ( RSCM )	Cindy ( RSCM )	Dr.					
+9	9CLS	Bp. Charles (PT.Boehringer)	Charles (PT.Boehringer)	Bp.					
+9	9CMK	Mr. CM Kim (Indocore)	CM Kim (Indocore)	Mr.					
+9	9COK	Bp. Cokro	Cokro	Bp.					
+9	9COL	Ibu Coleen Hadipurnama	Coleen Hadipurnama	Ibu					
+9	9COR	Bp. Corry Wijianto	Corry Wijianto	Bp.					
+9	9CRI	Mr. Chris (Yun Sun) Jang	Chris (Yun Sun) Jang	Mr.					
+9	9DAD	Bp. Dadang	Dadang	Bp.					
+9	9DAM	Ibu Damiyanti	Damiyanti	Ibu					
+9	9DAN	Bp. Daniel (Megatech)	Daniel (Megatech)	Bp.					
+9	9DAS	Bp. Dasir (RS. Islam Jak Tim)	Dasir (RS. Islam Jak Tim)	Bp.					
+9	9DAR	Bp. Darto	Darto	Bp.					
+9	9DAU	Bp. Daud	Daud	Bp.					
+9	9DCE	Bp. Darce	Darce	Bp.					
+9	9DDA	Bp. Dadang (Pol.Endokrin RSCM)	Dadang (Pol.Endokrin RSCM)	Bp.					
+9	9DED	Bp. Deden	Deden	Bp.					
+9	9DEN	Bp. Denny	Denny	Bp.					
+9	9DES	Ibu Desy	Desy	Ibu					
+9	9DEV	Ibu Devi	Devi	Ibu					
+9	9DEW	Ibu Dewi	Dewi	Ibu					
+9	9DIA	Ibu Dian	Dian	Ibu					
+9	9DII	Mr. Dii Chan Han	Dii Chan Han	Mr.					
+9	9DIN	Ibu Dina	Dina	Ibu	Kar Century			2003-07-21	
+9	9DKA	Ibu Dwi (Klinik Annaku)	Dwi (Klinik Annaku)	Ibu					
+9	9DNI	Ibu Deni	Deni	Ibu					
+9	9DNN	Bp. Danan (Indocore)	Danan (Indocore)	Bp.					
+9	9DRA	Dr. Drajat (Depkes)	Drajat (Depkes)	Dr.					
+9	9DRC	Direktur Utama RSCM	Direktur Utama RSCM	Dir.					
+9	9DRE	Bp. Andre	Andre	Bp.					
+9	9DRI	Ibu Andri (Store Manager Cen. Gajah Mada)	Andri (Store Manager Cen. Gajah Mada)	Ibu					
+9	9DSI	Ibu Desi (RS.Jantung)	Desi (RS.Jantung)	Ibu					
+9	9DUD	Dr. Duddy Mulyawan	Duddy Mulyawan	Dr.					
+9	9DVI	Ibu Devi (SC Cen. Town Square Cilandak)	Devi (SC Cen. Town Square Cilandak)	Ibu					
+9	9DWB	Bp. Dwi	Dwi	Bp.					
+9	9DWC	Ibu Dwi (Indocore)	Dwi (Indocore)	Ibu					
+9	9DWI	Ibu Dwi	Dwi	Ibu				20-Jun-03	
+9	9DWN	Bp. Dwi (Novartis)	Dwi (Novartis)	Bp.					
+9	9EDA	Ibu Endah (Cen.D'Best Fatmawati)	Endah (Cen.D'Best Fatmawati)	Ibu					
+9	9EDH	Ibu Endah (SC Cen.Plz Cempaka Mas)	Endah (SC Cen.Plz Cempaka Mas)	Ibu					
+9	9EDI	Bp. Edi	Edi	Bp.					
+9	9EDR	Bp. Endar	Endar	Bp.					
+9	9EDW	Bp. Edwin	Edwin	Bp.					
+9	9EDY	Bp. Edy Kusnanto	Edy Kusnanto	Bp.					
+9	9EHR	Dr. Esther (Lab.RS Tebet)	Esther (Lab.RS Tebet)	Dr.					
+9	9EKA	Dr. Eka (RS.St.Carolus)	Eka (RS.St.Carolus)	Dr.					
+9	9EKO	Bp. Eko	Eko	Bp.					
+9	9EKS	Bp. Eka (Indocore)	Eka (Indocore)	Bp.					
+9	9ELA	Ibu Elsaty	Elsaty	Ibu					
+9	9ELI	Ibu. Eli	Eli	Bp.					
+9	9ELL	Ibu Eli (RS.Pelabuhan)	Eli (RS.Pelabuhan)	Ibu					
+9	9ELN	Ibu Elin	Elin	Ibu					
+9	9ELS	Ibu Elsye (Indocore)	Elsye (Indocore)	Ibu					
+9	9ELZ	Ibu Elza 	Elza	Ibu					
+9	9EMI	Ibu Emil	Emil	Ibu	Kar Novartis			2003-07-17	
+9	9EMY	Dr. Emi (RSPAD)	Emi (RSPAD)	Dr.				2003-07-17	
+9	9ENA	Ibu Erna	Erna	Ibu					
+9	9END	Ibu Endang	Endang	Ibu					
+9	9ENG	Ibu Eni (RS.Gandaria)	Eni (RS.Gandaria)	Ibu					
+9	9ENI	Ibu Eni ( Century )	Eni (Century)	Ibu					
+9	9ERI	Dr. Erik (Kalbe Farma)	Erik (Kalbe Farma)	Dr.					
+9	9ERM	Ibu Ermi (Cent.D'Best Fatmawati)	Ermi (Cent.D'Best Fatmawati)	Ibu					
+9	9ERN	Ibu Erni	Erni	Ibu					
+9	9ERW	Dr. Erwin	Erwin	Dr.					
+9	9ERY	Suster Ery (RS.Sari Asih Ciledug)	Ery (RS.Sari Asih Ciledug)	Ss					
+9	9ESR	Ibu Ester	Ester	Ibu					
+9	9EST	Dr. Esti	Esti	Dr.					
+9	9EUI	Ibu Euis	Euis	Ibu					
+9	9EVA	Ibu Eva (Ap.Roxy)	Eva (Ap.Roxy)	Ibu					
+9	9EVI	Ibu Evi	Evi	Ibu					
+9	9EWN	Bp. Erwin ( Indocore )	Erwin (Indocore)	Bp.					
+9	9EWO	Bp. Erwanto Rachman	Erwanto Rachman	Bp.					
+9	9FAH	Dr. Fatimah	Fatimah	Dr.					
+9	9FAI	Bp. Faizal	Faizal	Bp.					
+9	9FAN	Dr. Fanny	Fanny	Dr.				23-Jun-03	
+9	9FAR	Ibu Farida	Farida	Ibu				23-Jun-03	
+9	9FAT	Bp. Fatur (Ap.Jantung)	Fatur (Ap.Jantung)	Bp.					
+9	9FAZ	Bp. Fazah	Fazah	Bp.					
+9	9FBY	Ibu Febby (Store Manager Cen. Mall Pondok Indah	Febby (Store Manager Cen. Mall Pondok Indah	Ibu					
+9	9FDN	Bp. Ferdinan	Ferdinan	Bp.					
+9	9FEB	Ibu Febra (RS.Honoris)	Febra (RS.Honoris)	Ibu					
+9	9FER	Ibu Fera	Fera	Ibu					
+9	9FIB	Ibu Fibi	Fibi	Ibu					
+9	9FIR	Bp. Firdaus (RS. Boremeus) 	Firdaus (RS. Boremeus) 	Bp.					
+9	9FIS	Ibu Fiska (Cen. MM Bekasi)	Fiska (Cen. MM Bekasi)	Ibu					
+9	9FIT	Ibu Fitriyeni (Indoc)	Fitriyeni (Indoc)	Ibu					
+9	9FNA	Ibu Ferna	Ferna	Ibu					
+9	9FNI	Ibu Fani	Fani	Ibu					
+9	9FRA	Bp. Frans	Frans	Bp.					
+9	9FRE	Bp. Freddy	Freddy	Bp.					
+9	9FRR	Bp. Ferry (Indocore)	Ferry (Indocore)	Bp.					
+9	9FRY	Bp. Ferry	Ferry	Bp.				20-Aug-03	
+9	9FSK	Ibu Fiska 	Fiska 	Ibu					
+9	9GAN	Ibu Gani 	Gani	Ibu					
+9	9GEE	Mr. Gee	Gee	Mr.					
+9	9GIA	Bp. Giarto	Giarto	Bp.					
+9	9GUN	Bp. Gunani	Gunani	Bp.				28-Jun-03	
+9	9GUR	Ibu Gunardi	Gunardi	Ibu					
+9	9GUS	Bp. Gusrico (Euro Med)	Gusrico (Euro Med)	Bp.					
+9	9GUT	Bp. Guntur	Guntur	Bp.				28-Jun-03	
+9	9GWA	Bp. Gunawan	Gunawan	Bp.				28-Jun-03	
+9	9HAA	Ibu Handa (Cent.Mall Klp Gding III)	Handa (Cent.Mall Klp Gding III)	Ibu					
+9	9HAJ	Ibu Hajutri (Indocore)	Hajutri (Indocore)	Ibu					
+9	9HAL	Bp. Halim	Halim	Bp.				28-Jun-03	
+9	9HAM	Bp. Hamid	Hamid	Bp.					
+9	9HAN	Mr. Hang Eang	Hang Eang	Mr.					
+9	9HAP	Ibu Hapsari	Hapsari	Ibu					
+9	9HAR	Bp. Harry	Harry	Bp.				16-Jun-03	
+9	9HAS	Ibu Hasan	Hasan	Ibu				16-Jun-03	
+9	9HAY	Bp. Haryanto	Haryanto	Bp.					
+9	9HBU	Tim HBU	HBU	Tim					
+9	9HDA	Ibu Harida	Harida	Ibu					
+9	9HDY	Bp. Handoyo	Handoyo	Bp.					
+9	9HEA	Bp. Hendra	Hendra	Bp.					
+9	9HEL	Dr. Hertati Latif	Hertati Latif	Dr.					
+9	9HEN	Dr. Hendra	Hendra	Dr.					
+9	9HER	Ibu Herwanti	Herwanti	Ibu					
+9	9HET	Bp. Heta Saputra	Heta Saputra	Bp.					
+9	9HID	Bp. Hidayat	Hidayat	Bp.					
+9	9HIS	Bp. Hisab	Hisab	Bp.					
+9	9HLN	Ibu Helen	Helen	Ibu					
+9	9HMI	Ibu Hermi	Hermi	Ibu					
+9	9HMN	Bp. Herman	Herman	Bp.					
+9	9HNA	Dr. Husna	Husna	Ibu					
+9	9HND	Bp. Hendro	Hendro	Bp.					
+9	9HNG	Ibu Husing	Husing	Ibu					
+9	9HNI	Ibu Heni	Heni	Ibu					
+9	9HNK	Bp. Hengky (PT. Sanbe Farma)	Hengky (PT. Sanbe Farma)	Bp.					
+9	9HNY	Bp. Hendry	Hendry	Bp.					
+9	9HOE	Bp. Hoedoyo	Hoedoyo	Bp.					
+9	9HRD	Dr. Hardy Senjaya	Dr. Hardy Senjaya	Dr.					
+9	9HRT	Ibu Herawati	Herawati	Ibu					
+9	9HRU	Bp. Heru (Indocore)	Heru (Indocore)	Bp.					
+9	9HRY	Bp. Herry Setiawan	Herry Setiawan	Bp.					
+9	9HSA	Bp. Herman Salim	Herman Salim	Bp.					
+9	9HTI	Ibu Herti Komara	Herti Komara	Ibu					
+9	9HUD	Dr. Hudyono	Hudyono	Dr.					
+9	9HUS	Bp. Husni (Indocore)	Husni (Indocore)	Bp.					
+9	9HUY	Ibu Huyi	Huyi	Ibu					
+9	9HWO	Bp. Herawanto	Herawanto	Bp.					
+9	9HYD	Bp. Haryadi	Haryadi	Bp.					
+9	9IBU	Ibu Ria (PT. Unilever)	Ria (PT. Unilever)	Ibu					
+9	9IAA	Dr. Indra 	Indra	Dr.					
+9	9ICH	Bp. Ichwan	Ichwan	Bp.					
+9	9IDA	Ibu Ida 	Ida	Ibu					
+9	9IDN	Ibu Inderanita Natha	Inderanita Natha	Ibu					
+9	9IDP	Ibu Ida (RS. Permata Hijau)	Ida (RS. Permata Hijau)	Ibu					
+9	9IDR	Bp. Indra (Indocore)	Indra (Indocore)	Bp.					
+9	9IJA	Ibu Ijah	Ijah	Ibu				02-Jun-03	
+9	9IKA	Ibu Ika (Cent.Metropolitan Bekasi)	Ika (Cent.Metropolitan Bekasi)	Ibu					
+9	9IKO	Mr. Ikoma	Ikoma	Mr.					
+9	9IME	Dr. Imelda	Imelda	Dr. 					
+9	9IMR	Bp. Imron	Imron	Bp					
+9	9INA	Ibu Ina	Ina	Ibu				02-Jun-03	
+9	9IND	Ibu Indri	Indri	Ibu					
+9	9ING	Dr. Inge (RS. Sumber Waras)	Inge (RS. Sumber Waras)	Dr.					
+9	9INH	Ibu Indah	Indah	Ibu					
+9	9INR	Bp. Inarman	Inarman	Bp.					
+9	9IRA	Ibu Ira	Ira	Ibu					
+9	9IRD	Ibu Irda	Irda	Ibu					
+9	9IRV	Bp. Irving	Irving	Bp.	00A01			2003-07-28	
+9	9IRW	Bp. Irwan	Irwan	Bp.					
+9	9ISK	Bp. Iskandar	Iskandar	Bp.					
+9	9IVA	Bp. Ivan	Ivan	Bp.					
+9	9IWA	Bp. Iwan	Iwan	Bp.					
+9	9IWN	Bp. Iwan (Indocore)	Iwan (Indocore)	Bp.					
+9	9IWT	Ibu Indrawati	Indrawati	Ibu					
+9	9JAC	Dr. Jacobus	Jacobus	Dr.				12-Jun-03	
+9	9JAJ	Bp. Tjaja (PT.IHS)	Tjaja (PT.IHS)	Bp.					
+9	9JAS	Bp. Jastin	Jastin	Bp.					
+9	9JAT	Bp. Djati	Djati	Bp.					
+9	9JAW	Bp. Jawali	Jawali	Bp.					
+9	9JCB	Bp. Jacob	Jacob	Bp.				01-Sep-03	2BKC
+9	9JAM	Bp. Djamarwie (PT.Enseval)	Djamarwie (PT.Enseval)	Bp.					
+9	9JDI	Bp. Junaedi (Indocore)	Junaedi (Indocore)	Bp.					
+9	9JEA	Ibu Jean	Jean	Ibu					
+9	9JEE	Mr. Jee	Jee	Mr.					
+9	9JEF	Bp. Jeffry	Jeffry	Bp.					
+9	9JEN	Ibu Jeani	Jeani	Ibu					
+9	9JET	Ibu Jeti	Jeti	Ibu					
+9	9JIB	Bp. Jib Kartijo	Jib Kartijo	Bp.					
+9	9JIT	Bp. Jitung	Jitung	Bp.					
+9	9JKO	Bp. Joko 	Joko	Bp.					
+`	9JNI	Bp. Joni	Joni	Bp.					
+9	9JOA	Bp. Johannes	Johannes	Bp.					
+9	9JOH	Dr. John F. Adam	John F. Adam	Dr.					
+9	9JOK	Bp. Joko (AP. Jantung)	Joko (AP. Jantung)	Bp.					
+9	9JON	Mr. Johntan (Singapura)	Johntan (Singapura)	Mr.					
+9	9JOO	Ibu Joko	Joko	Ibu					
+9	9JOR	Mr. John Reggerman	John Reggerman	Mr.					
+9	9JOY	Bp. Jhony	Jhony	Bp.					
+9	9JUA	Bp. Juanda (Indocore)	Juanda (Indocore)	Bp.					
+9	9JUH	Mr. Juhun	Juhun	Mr.					
+9	9JUL	Bp. Julianto	Julianto	Bp.					
+9	9JUN	Bp. Juniarto	Juniarto	Bp.					
+9	9JUS	Ibu Justarina	Justarina	Ibu					
+9	9JUW	Ibu Juwati (RS. Jantung)	Juwati (RS. Jantung)	Ibu					
+9	9KAR	Bp. Karti	Karti	Bp.				13-Jun-03	
+9	9KAT	Bp. Kato	Kato	Bp.					
+9	9KDR	Dr. Kim	Kim	Dr.					
+9	9KET	Bp. Ketut	Ketut	Bp.					
+9	9KHA	Ibu Khailas Devi	Khailas Devi	Ibu					
+9	9KHJ	Mr. Kim Hyung Jong	Kim Hyung Jong	Mr.					
+9	9KIK	Ibu Kiki (Med.Shoppe Menteng)	Kiki (Med.Shoppe Menteng)	Ibu					
+9	9KIM	Mr. Kim	Kim	Mr.				20-Jun-03	
+9	9KIS	Bp. Kristanto	Kristanto	Bp.					
+9	9KMN	Bp. Karman	Karman	Bp.					
+9	9KOH	Mrs. Koh	Koh	Mrs.					
+9	9KPD	Bp. Kuspriadi	Kuspriadi	Bp.					
+9	9KRA	Bp. Karyanto (RS Honoris)	Karyanto	Bp.					
+9	9KTR	Bp. Kateriawan	Kateriawan	Bp.					
+9	9KUN	Bp. Kuntiyo	Kuntiyo	Bp.					
+9	9KUS	Ibu Kusmanto	Kusmanto	Bp.					
+9	9LAL	Ibu Lala (RS. Jantung)	Lala (RS. Jantung)	Ibu					
+9	9LAN	Ibu Lani	Lani	Ibu					
+9	9LAS	Bp. Lasmono	Lasmono	Bp.					
+9	9LAT	Ibu Latifah (Cent.Panakukang Makasar)	Latifah (Cent.Panakukang Makasar)	Ibu					
+9	9LDA	Ibu Linda	Linda	Ibu					
+9	9LEE	Mr. Lee	Lee	Mr.					
+9	9LEL	Ibu Lely	Lely	Ibu					
+9	9LIA	Ibu Lia	Lia	Ibu				2003-07-22	
+9	9LIF	Ibu Lia (KF.No 7 Bogor)	Lia (KF.No 7 Bogor)	Ibu					
+9	9LII	Ibu Lilis	Lilis	Ibu					
+9	9LIL	Ibu Lily	Lily	Ibu					
+9	9LIM	Mr. Lim (Medicore)	Lim (Medicore)	Mr.					
+9	9LIN	Ibu Liana	Liana	Ibu					
+9	9LIS	Ibu Lisa	Lisa	Ibu	Kar Century			2003-07-21	
+9	9LIT	Ibu Lita	Lita	Ibu					
+9	9LKS	Dr. Laksmi	Laksmi	Dr.					
+9	9LMN	Dr. Liman	Liman	Dr.					
+9	9LTO	Bp. Lianto	Lianto	Bp.					
+9	9LUF	Ibu Lufi (Cent.Ps Raya Grande)	Lufi (Cent.Ps Raya Grande)	Ibu					
+9	9LUK	Dr. Lukas (RS.MH.Thamrin)	Lukas (RS.MH.Thamrin)	Dr.					
+9	9LUS	Dr. Lusianawati	Lusianawati	Dr.				12-Jun-03	
+9	9LUT	Ibu Lutfia	Lutfia	Ibu					
+9	9MAA	Ibu Maria	Maria	Ibu					
+9	9MAC	Ibu Maya (Cent.Carr LebakBulus)	Maya (Cent.Carr LebakBulus)	Ibu					
+9	9MAH	Ibu Mamah (Guardian Gatot Subroto)	Mamah (Guardian Gatot Subroto)	Bp.					
+9	9MAI	Ibu Mainah	Mainah	Ibu					
+9	9MAL	Bp. Maliki 	Maliki	Bp.					
+9	9MAM	Ibu Mama (Guardian T. Duren) 	Mama (Guardian T. Duren)	Ibu					
+9	9MAR	Bp. Maruli	Maruli	Bp.					
+9	9MAY	Ibu Maya (Mutilab)	Maya (Mutilab)	Ibu					
+9	9MCA	Ibu Monica (PT.Buyer)	Monica (PT.Buyer)	Ibu					
+9	9MDA	Ibu Merlinda (Cent.Pusat)	Merlinda (Cent.Pusat)	Ibu					
+9	9MDY	Ibu Murdayati (RSCM)	Murdayati (RSCM)	Ibu					
+9	9MEA	Ibu Mega 	Mega 	Ibu					
+9	9MED	Dr. Mediana	Mediana	Dr.					
+9	9MEG	Ibu Megawati (Unilever)	Megawati (Unilever)	Ibu					
+9	9MEI	Dr. Meidy	Meidy	Dr.					
+9	9MEK	Ibu Meyka (Cent.)	Meyka (Cent.)	Ibu					
+9	9MEL	Ibu Meilina	Meilina	Ibu					
+9	9MEN	Ibu Menik	Menik	Ibu					
+9	9MER	Ibu Merry	Merry	Ibu					
+9	9MEY	Ibu Meyfung (Cen.)	Meyfung (Century)	Ibu					
+9	9MGA	Ibu Mega (Melawai 21)	Mega (Melawai 21)	Ibu					
+9	9MHM	Bp. Mahrim	Mahrim	Bp.					
+9	9MIC	Bp. Michael	Michael	Bp.					
+9	9MI'	Bp. Mi'	Mi'	Bp.					
+9	9MIK	Ibu Mika	Mika	Ibu					
+9	9MIN	Mr. Min Sang Hyun (Indocore)	Min Sang Hyun (Indocore)	Mr.					
+9	9MIR	Ibu Mira	Mira	Ibu					
+9	9MJO	Mr. Joo	Joo	Mr.					
+9	9MJR	Ibu Munjir	Munjir	Ibu					
+9	9MLE	Mrs.Lee (Indocore)	Lee (Indocore)	Mrs					
+9	9MLN	Ibu Merlyn (Cent.)	Merlyn	Ibu					
+9	9MOH	Bp. Muhammad	Muhammad	Bp.					
+9	9MON	Ibu Mongli	Mongli	Ibu					
+9	9MRL	Ibu Marlin (RS.Atmajaya)	Marlin (RS.Atmajaya)	Ibu					
+9	9MRM	Ibu Murim	Murim	Ibu					
+9	9MTN	Bp. Martin	Martin	Bp.					
+9	9MUH	Bp. Muh. Nur Tajeb	Muh. Nur Tajeb	Bp.					
+9	9MUI	Bp. Muis	Muis	Bp.					
+9	9MUJ	Bp. Mujiono	Mujiono	Bp.					
+9	9MUL	Ibu Mulyana	Mulyana	Ibu					
+9	9MUN	Ibu Murni	Murni	Ibu					
+9	9MUR	Bp. Muharman	Muharman	Bp.					
+9	9MUZ	Bp. Muzamil	Muzamil	Bp.					
+9	9MWO	Bp. Marwanto (Indocore)	Marwanto (Indocore)	Bp.					
+9	9MWT	Ibu Mindarwati (Ap.Jati mulya Bekasi)	Mindarwati (Ap.Jati mulya Bekasi)	Ibu					
+9	9MZK	Dr. Marzuki (RSCM)	Marzuki (RSCM)	Dr.					
+9	9NAI	Bp. Naibaho	Naibaho	Bp.					
+9	9NAM	Mr. Nam	Nam	Mr.					
+9	9NAN	Ibu Nanda	Nanda	Ibu					
+9	9NAR	Dr. Narni	Narni	Bp.					
+9	9NAS	Bp. Nasution	Nasution	Bp.					
+9	9NAT	Ibu Narti (Klinik Insani)	Narti (Klinik Insani)	Ibu					
+9	9NAW	Bp. Nawawi (Indocore)	Nawawi (Indocore)	Bp.					
+9	9NDN	Bp. H.Nurdin	H.Nurdin	Bp.					
+9	9NEL	Dr. Nell	Nell	Dr.					
+9	9NEN	Ibu Nensi (Century)	Nensi (Century)	Ibu					
+9	9NGR	Ibu Ningrum (RSCM)	Ningrum (RSCM)	Ibu					
+9	9NIA	Ibu Nina (Med. Shoppe Country Wood)	Nina (Med. Shoppe Country Wood)	Ibu					
+9	9NIC	Bp. Nicco	Nicco	Bp.					
+9	9NIG	Dr. Ning (RS.Honoris)	Ning (RS.Honoris)	Dr.					
+9	9NIL	Dr. Nieng Liong	Nieng Liong	Dr.					
+9	9NIN	Ibu Nina	Nina	Ibu					
+9	9NIT	Ibu Nita (Honoris)	Nita (Honoris)	Ibu					
+9	9NLA	Ibu Nilla (RS.Karya Medika)	Nilla (RS.Karya Medika)	Ibu					
+9	9NLL	Ibu Nelleke (PT.Amway)	Nelleke (PT.Amway)	Ibu					
+9	9NNA	Ibu Nina (Jasmindo)	Nina (Jasmindo)	Ibu					
+9	9NNG	Dr. Nanang	Nanang	Dr.					
+9	9NNI	Dr. Nani 	Nani 	Dr.					
+9	9NOI	Ibu Novi (Indocore)	Novi (Indocore)	Ibu					
+9	9NOV	Ibu Novi (RS. Port Medical)	Novi (RS. Port Medical)	Ibu					
+9	9NRI	Ibu Nur (SPG Indocore)	Nur (SPG Indocore)	Ibu					
+9	9NRU	Ibu Nur	Nur	Ibu					
+9	9NSD	Bp. Nur Said	Nur Said	Bp.					
+9	9NSH	Ibu Ningsih	Ningsih	Ibu					
+9	9NUH	Ibu Nurhayati	Nurhayati	Ibu					
+9	9NUN	Ibu Nuning (Cent.Plz Bintaro Jaya 2)	Nuning (Cent.Plz Bintaro Jaya 2)	Ibu					
+9	9NUR	Bp. Nurdin (RS. Jantung)	Nurdin (Rs. Jantung)	Bp.					
+9	9OHM	Dr. Ohm	Ohm	Dr.					
+9	9OLA	Ibu Olla (RS Jantung)	Olla (RS Jantung)	Ibu					
+9	9ONI	Bp. Oni	Oni	Bp.					
+9	9PAL	Bp. Paul	Paul	Bp.					
+9	9PAM	Ibu Pamela	Pamela 	Ibu					
+9	9PAU	Bp. Paulus	Paulus	Bp.					
+9	9PDI	Bp. Pendi (Indocore)	Pendi (Indocore)	Bp.					
+9	9PEN	Ibu Peni	Peni	Ibu					
+9	9PHA	Pharmacosindo	Pharmacosindo	Bp.				23-Jun-03	
+9	9PLN	Ibu Pauline Keyzia (RS. Siloam Graha Medica)	Pauline Keyzia (RS. Siloam Graha Medika	Ibu					
+9	9POP	Dr. Poppy	Poppy	Dr.					
+9	9PRA	Bp. Pranoto	Pranoto	Bp.				2003-07-22	
+9	9PSP	Ibu Puspa	Puspa	Ibu					
+9	9PUR	Bp. Purnomo	Purnomo	Bp.					
+9	9PUS	Dr. Puspa (RS Atmajaya)	Puspa (RS Atmajaya)	Dr.					
+9	9PWN	Dr. Purnawan Junadi	Purnawan Junadi	Dr.					
+9	9PYA	Bp. Prasetya	Prasetya	Bp.					
+9	9RAH	Bp. Rahmat	Rahmat	Bp.				2003-07-22	
+9	9RAI	Ibu Rahmawati (SPG Cent.P Indah)	Rahmawati (SPG Cent.P Indah)	Ibu					
+9	9RAM	Bp. Rames	Rames	Bp.					
+9	9RAN	Bp. Randi	Randi	Bp.					
+9	9RAP	Dr. Rapriani	Rapriani	Dr.					
+9	9RAT	Ibu Rahmawati 	Rahmawati 	Ibu					
+9	9RAW	Dr. Rawan Broto	Rawan Broto	Dr.					
+9	9RAY	Bp. Rayono (Klinik FKUI)	Rayono (Klinik FKUI)	Bp.					
+9	9RBT	Bp. Robert	Robert	Bp.					
+9	9RDI	Bp. Rudi (Indocore)	Rudi (Indocore)	Bp.					
+9	9REN	Ibu Reni	Reni	Ibu					
+9	9RIC	Bp. Richard	Richard	Bp.				12-Jun-03	
+9	9RID	Ibu Rida	Rida	Ibu					
+9	9RIK	Ibu Riksa	Riksa	Ibu				2003-07-22	
+9	9RIM	"Dr. Rimarky Oemar,M Kes"	"Rimarky Oemar,M Kes"	Dr.					
+9	9RIN	Ibu Rini (K.Farma Batam)	Rini (K.Farma Batam)	Ibu					
+9	9RIP	Ibu Rika (RS.Port Medical)	Rika (RS.Port Medical)	Ibu					
+9	9RIR	Ibu Riri	Riri	Ibu					
+9	9RIY	Dr. Ricky	Ricky	Dr.					
+9	9RKA	Ibu Rika	Rika	Ibu					
+9	9RKI	Ibu Rukmini (RS RSCM)	Rukmini (RS RSCM)	Ibu					
+9	9RKN	Dr. Riskan	Riskan	Dr.					
+9	9RKY	Bp. Ricky	Ricky	Bp.					
+9	9RMA	Bp. Rama	Rama	Bp.					
+9	9RNA	Dr. Ratna	Ratna	Dr.					
+9	9ROB	Dr. Robert	Robert	Dr.					
+9	9ROH	Mr. Ron Hunt	Ron Hunt	Bp.					
+9	9ROM	Bp. Rommel (Boston Pusat)	Rommel (Boston Pusat)	Bp.					
+9	9RON	Bp. Roni	Roni	Bp.					
+9	9ROS	Dr. Rosa	Rosa	Dr.					
+9	9RSE	Ibu Rose (Klinik DPR)	Rose (Klinik DPR)	Ibu					
+9	9RTR	Ibu Ratri (SM.Cent.Tanjung Duren)	Ratri (SM.Cent.Tanjung Duren)	Ibu					
+9	9RUD	Bp. Rudi	Rudi	Bp.					
+9	9RUK	Ibu Rukmana	Rukmana	Ibu					
+9	9RUS	Bp. Rusli Bollo	Rusli Bollo	Bp.					
+9	9SAD	Bp. Sandra	Sandra	Bp.					
+9	9SAF	Dr. Syaiful (RS.Honoris)	Syaiful (RS.Honoris)	Dr.					
+9	9SAM	Bp. Syam	Syam	Bp.					
+9	9SAN	Ibu Santi	Santi	Ibu					
+9	9SAP	Ibu Sapta (SM Cent.Sunter Mall)	Sapta (SM Cent.Sunter Mall)	Ibu					
+9	9SAR	Bp. Sardiyanto	Sardiyanto	Bp.					
+9	9SAT	Ibu Satiah	Satiah	Ibu					
+9	9SBO	Bp. Subianto	Subianto	Bp.					
+9	9SBY	Bp. Subiyantoro	Subiyantoro	Bp.					
+9	9SCT	Bp. Sucitra	Sucitra	Bp.					
+9	9SCI	Ibu Suci Handayani	Suci Handayani	Ibu					
+9	9SDI	Bp. Sondi (PT.Combhipar)	Sondi	Bp.					
+9	9SDM	Bp. Sudarmaji	Sudarmaji	Bp.					
+9	9SDO	Bp. Prof. Supartondo (RSCM)	Supartondo (RSCM)	Bp.					
+9	9SDY	Bp. Shandy	Shandy	Bp.					
+9	9SET	Bp. Setyawan Andreas	Setyawan Andreas	Bp.					
+9	9SGO	Bp. Sugiono	Sugiono	Bp.					
+9	9SHA	Mrs. Shareen Ratnani	Shareen Ratnani	Mrs.				30-Aug-03	
+9	9SHI	Ibu Shierly (Cen.)	Shierly (Century)	Ibu					CUFF-M
+9	9SHT	Bp. Suharti	Suharti	Bp.					
+9	9SIA	Bp. Siahaan	Siahaan	Bp.					
+9	9SID	Dr. Sidhartawan	Sidhartawan	Dr.					
+9	9SIL	Ibu Silvi	Silvi	Ibu					
+9	9SIN	Dr. Sinulingga (RS Sumber Waras)	Sinulingga (RS Sumber Waras)	Dr.					
+9	9SIR	Bp. Sirait	Sirait	Bp.					
+9	9SIS	Ibu Siska	Siska	Ibu					
+9	9SIT	Ibu Siti	Siti	Ibu					
+9	9SIW	Ibu Siwi (Indocore)	Siwi (Indocore)	Ibu					
+9	9SKN	Bp. Sukiono	Sukiono	Bp.					
+9	9SLA	Bp. Slamet R	Slamet R	Bp.					
+9	9SLL	Ibu Shierly Lukman	Shierly Lukman	Ibu					
+9	9SLV	Ibu Silvia (RS. Harapan Jayakarta)	Silvia (RS. Harapan Jayakarta)	Ibu					
+9	9SMR	Dr. Suminar	Suminar	Dr.					
+9	9SNA	Ibu Susana (RS.Jantung)	Susana (RS. Jantung)	Ibu					
+9	9SND	Bp. Sukondo	Sukondo	Bp.					
+9	9SNI	Ibu Suryani Salim	Suryani Salim	Ibu					
+9	9SNJ	Ibu Sunita Jhetanes	Sunita Jhetanes	Ibu					
+9	9SNO	Bp. Suyono Ali	Suyono Ali	Bp.					
+9	9SNR	Dr. Sunarto (RS.Honoris)	Sunarto (RS.Honoris)	Dr.					
+9	9SNY	Dr. Sonya ( DepKes )	Sonya ( DepKes )	Dr.					
+9	9SOD	Bp. Sodik (Lab.RS Gandaria)	Sodik (Lab.RS Gandaria)	Bp.					
+9	9SOF	Bp. Sofyan	Sofyan	Bp.					
+9	9SOL	Dr. Solichah	Solichah	Dr.					
+9	9SON	Bp. Sony	Sony	Bp.					
+9	9SPI	Bp. Supandi	Supandi	Bp.					
+9	9SPO	Bp. Supono (RS.Atmajaya)	Supono (RS.Atmajaya)	Bp.					
+9	9SRI	Ibu Sri Peni	Sri Peni	Ibu					
+9	9SSD	Suster Dace (RS.Sumber Waras)	Dace (RS.Sumber Waras)	Suster					
+9	9SSI	Ibu Susilowati	Susilowati	Ibu	Karyawan			25-Aug-03	
+9	9SSU	Ibu Susi	Susi	Ibu					
+9	9SSS	Mr. Sun Sil Sung	Sun Sil Sung	Mr.					
+9	9STA	Dr. Sinta (RSPAD)	Sinta (RSPAD)	Dr.					
+9	9STD	Bp. Setiadi	Setiadi	Bp.					
+9	9STE	Bp. Steven ( PT.Roche )	Steven (PT.Roche)	Bp.					
+9	9STI	Ibu Santi (Cent.Mall Klp Gdng 3)	Santi (Cent.Mall Klp Gdng 3)	Ibu					
+9	9STJ	Bp. Sutejo	Sutejo	Bp.					
+9	9STO	Bp. Sutisno	Sutisno	Bp.					
+9	9STR	Dr. Stephanie Raharjo	Stephanie Raharjo	Dr.					
+9	9STS	Bp. Santoso	Santoso	Bp.					
+9	9STV	Bp. Steven	Steven	Bp.					
+9	9STY	Bp. Sutiyo	Sutiyo	Bp.					
+9	9SUB	Ibu Subingar	Subingar	Ibu					
+9	9SUC	Bp. Sucipto Margono	Sucipto margono	Bp.					
+9	9SUD	Bp. Sudarso	Sudarso	Bp.					
+9	9SUF	Ibu Sufani Latif	Sufani Latif	Ibu					
+9	9SUG	Bp. Sugianto	Sugianto	Bp.					
+9	9SUH	Bp. Suhandono	Suhandono	Bp.					
+9	9SUI	Ibu Sumi (RS Gandaria)	Sumi (RS Gandaria)	Ibu					
+9	9SUK	Bp. Sukardi	Sukardi	Bp.					
+9	9SUL	Ibu Sulas (SC Cent.Bintaro Jaya 2)	Sulas (SC Cent.Bintaro Jaya 2)	Ibu					
+9	9SUM	Bp. Suminto	Suminto	Bp.					
+9	9SUN	Mrs. Sung	Sung	Mrs. 					R5
+9	9SUN2	Ibu Sundari (Mel. 01)	Sundari	Ibu					
+9	9SUO	Bp. Suwondo	Suwondo	Bp.					
+9	9SUP	Bp. Suprapto	Suprapto	Bp.				17-Jun-03	
+9	9SUR	Bp. Suryanto	Suryanto	Bp.					
+9	9SUS	Ibu Susan (RS. Jantung)	Susan (RS. Jantung)	Ibu					
+9	9SUT	Bp. Sutanto	Sutanto	Bp.					
+9	9SUW	Bp. Suwandi	Suwandi	Bp.					
+9	9SUY	Bp. Suyanto	Suyanto	Bp.					
+9	9SWA	Bp. Suwarno	Suwarno	Bp.					
+9	9SWN	Dr. Setiawan	Setiawan	Dr.					
+9	9SWT	Bp. Siswanto	Siswanto	Bp.					
+9	9SYA	Bp. Syaiful	Syaiful	Bp.					
+9	9SYD	Bp. Suryadi	Suryadi	Bp.					
+9	9SYN	Bp. Sukiyono	Sukiyono	Bp.					
+9	9SYO	Bp. Sukiyanto	Sukiyanto	Bp.					
+9	9SYU	Ibu Syuli (St. Carolus)	Syuli (St. Carolus)	Ibu					AGM-2100
+9	9TAA	Ibu Tata	Tata	Ibu					
+9	9TAG	Bp. Tagor	Tagor	Bp.					
+9	9TAN	Ibu Tan Siok	Tan Siok	Ibu					
+9	9TAR	Bp. Taryanto (Indocore)	Taryanto (Indocore)	Bp.					
+9	9TAS	Bp. Taslim	Taslim	Bp.					
+9	9TAT	Ibu Tati (AP. Jantung)	Tati (AP. Jantung)	Ibu					CUFF-M
+9	9THE	Ibu Theresia	Theresia	Ibu					
+9	9THO	Bp. Thomas	Thomas	Bp.					
+9	9TIN	Ibu Tina	Tina (2CCD)	Ibu				2003-07-18	
+9	9TJA	Bp. Tjandra	Tjandra	Bp.					
+9	9TJH	Bp. Tjahyadi (HIS)	Tjahyadi (HIS)	Bp.					
+9	9TOR	Bp. Toro	Toro	Bp.					
+9	9TOT	Ibu Tota Melanie	Tota Melanie	Ibu					
+9	9TNO	Bp. Triono (Indocore)	Triono (Indocore)	Bp.					
+9	9TNT	Bp. Tinarto	Tinarto	Bp.					
+9	9TRA	Ibu Tria	Tria	Ibu					
+9	9TRI	Ibu Tri	Tri 	Ibu					
+9	9TRO	Bp. Trio	Trio	Bp.					
+9	9TRS	Dr. Trisno	Trisno	Dr.					
+9	9TRU	Bp. Trudo (Kalbe Farma)	Trudo (Kalbe Farma)	Bp.					
+9	9TTA	Ibu Tati	Tati 	Ibu					
+9	9TTG	Bp. Tatang (Ap.Kimia Farma Karawaci)	Tatang (Ap.Kimia Farma Karawaci)	Bp.					
+9	9TTI	Ibu Ting Ting (Rs.Graha Medika Siloam)	Ting Ting (Rs.Graha Medika Siloam)	Ibu					
+9	9TTO	Bp. Toto	Toto	Bp.					
+9	9TUM	Bp. Tumpal Lembong	Tumpal Lembong	Bp.					
+9	9TUN	Ibu Tuning (Century)	Tuning (Century)	Ibu					
+9	9TUT	Ibu Tuti (RS.Atmajaya)	Tuti (RS.Atmajaya)	Ibu					
+9	9UMI	Ibu Umi (Cent.Supermall Karawaci)	Umi (Cent.Supermall Karawaci)	Ibu					
+9	9UNT	BP. Untung	Untung	Bp.					
+9	9USI	Dr. Susi 	Susi	Dr.					
+9	9UTA	Ibu Utami (Cent.Cilandak)	Utami (Cent. Cilandak)	Ibu					
+9	9VIN	Ibu Vinawati	Vinawati	Ibu					
+9	9VIT	Ibu Vita	Vita	Ibu					
+9	9VIV	Dr. Vivin	Vivin	Dr.					
+9	9VRA	Ibu Vira (Merk)	Vira (Merk)	Ibu					
+9	9WAK	Bp. Waktimin	Waktimin	Bp.					
+9	9WAN	Ibu Wani	Wani	Ibu					
+9	9WAY	Ibu Wayan (RS.Jantung)	Wayan (RS.Jantung)	Ibu					
+9	9WDA	Ibu Wanda (Clinisindo)	Wanda (Clinisindo)	Ibu					
+9	9WEL	Bp. Welly	Welly	Bp.					
+9	9WIJ	Bp. Wijaya	Wijaya	Bp.					
+9	9WIN	Ibu Winda (RS. RSCM)	Winda (RS. RSCM)	Ibu					
+9	9WIR	Dr. Wirasni (RSCM)	Wirasni (RSCM)	dr.					
+9	9WIS	Bp. Wisnu	Wisnu	Bp.					
+9	9WIT	Dr. Witono	Witono	Dr.					
+9	9WIW	Ibu Wiwid (PT.Boehringer)	Wiwid (PT.Boehringer)	Ibu					
+9	9WLY	Bp. Willy	Willy	Bp.					
+9	9WNI	Ibu Wenny	Wenny	Ibu					
+9	9WNO	Bp. Warno	Warno	Bp.					
+9	9WTA	Ibu Wita	Wita	Ibu					
+9	9YAF	Dr. Yafeth	Yafeth	Dr.					
+9	9YAK	Bp. Yakobus	Yakobus	Bp.					
+9	9YAM	Bp. Yaman	Yaman	Bp.					
+9	9YAN	Ibu Yani	Yani	Ibu					
+9	9YAS	Mr. Yasushi Nagano	Yasushi Nagano	Mr.					
+9	9YAT	Bp. Yayat	Yayat	Bp.					
+9	9YEI	Ibu Yeni	Yeni 	Ibu					
+9	9YEN	Ibu Yeni (Indocore)	Yeni (Indocore)	Ibu					
+9	9YET	Ibu Yeti (Cent.D Best Fatmawati)	Yeti (Cent.D Best Fatmawati)	Ibu					
+9	9YLI	Ibu Yuli (RS.Medistra)	Yuli (RS.Medistra)	Ibu					
+9	9YNB	Ibu Yani (Boston Madiun)	Yani (Boston Madiun)	Ibu					
+9	9YNI	Ibu Yuliani (PT.Rajawali)	Yuliani (PT.Rajawali)	Ibu					
+9	9YNJ	Ibu Yani (RS.Jantung)	Yani (RS.Jantung)	Ibu					
+9	9YNR	Ibu Yani (Roche)	Yani (Roche)	Ibu					
+9	9YNT	Bp. Yonathan	Yonathan	Bp.					
+9	9YNY	Ibu Yuni (Ap. Mahakam)	Yuni (Ap. Mahakam)	Ibu					
+9	9YOC	Bp. Yock Kiswaya	Yock Kiswaya	Bp.					
+9	9YOH	Ibu Yohana	Yohana	Ibu					
+9	9YON	Bp. Yongki	Yongki	Bp.					
+9	9YOS	Bp. Yohanes	Yohanes	Bp.					
+9	9YTA	Ibu Yunita	Yunita	Ibu					
+9	9YTI	Ibu Yanti	Yanti	Ibu					
+9	9YTO	Bp. Yanto	Yanto	Bp.					
+9	9YSA	Ibu Yunasifa	Yunasifa	Ibu					
+9	9YSI	Ibu Yosi (Cent.Lebak Bulus)	Yosi (Cent.Lebak Bulus)	Ibu					
+9	9YUD	Bp. Yudi	Yudi	Bp.					
+9	9YUI	Ibu Yuliani	Yuliani	Ibu					
+9	9YUL	Ibu Yuli	Yuli	Ibu				18-Jun-03	
+9	9YUN	Bp. Yunus	Yunus	Bp.					
+9	9YUR	Bp. Yuri	Yuri	Bp.					
+9	9YUS	Bp. Yus	Yus	Bp.				23-Jun-03	
+9	9YUT	Bp. Yuliantono	Yuliantono	Bp.					
+9	9YUY	Ibu Yuyun ( Lab.Honoris )	Yuyun (Lab.Honoris)	Ibu					
+9	9ZAE	Bp. Zaenul Fatah	Zaenul Fatah	Bp.					
+9	9ZUL	Bp. Zulvanus	Zulvanus	Bp.				26-Jun-03	
+9	9ZKN	Bp. Zulkarnaen	Zulkarnaen	Bp.					
+I	IMKT	Marketing Dept.	Marketing Dept.	I					
+\.

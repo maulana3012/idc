@@ -1,0 +1,40 @@
+<?php
+/**
+* Copyright PT. ZONEKOM All right reserved
+* Contact us dskim at indosat.net.id
+*
+* @author : daesung kim
+*
+* $Id: _left_menu.php,v 1.2 2008/06/30 06:11:05 neki Exp $
+*/
+//------------------------------------------------------------------
+// Left Menu (for Admin Page)
+//   Menu Category. (Define $item as number of element
+//------------------------------------------------------------------
+$cat = array("BILLING SUMMARY", "DEBIT", "PAYMENT", "SUMMARY");
+//------------------------------------------------------------------
+
+$item0[] = "daily_billing_by_item.php::By Item";
+$item0[] = "daily_billing_by_group.php::By Group";
+$item0[] = "daily_billing_by_customer.php::By Customer";
+$item0[] = "daily_billing_by_invoice.php::By Invoice";
+
+$item1[] = "debit_by_group.php::By Group";
+$item1[] = "debit_by_due_date.php::By Due date";
+$item1[] = "debit_by_customer.php::By Customer";
+
+$item2[] = "payment_by_group.php::By Group";
+$item2[] = "payment_by_date.php::By Period";
+$item2[] = "payment_by_customer.php::By Customer";
+
+$item3[] = "summary_by_account_receivable.php::By Acc Receivable";
+$item3[] = "summary_by_acc_receivable.php::By Acc Receivable II";
+
+//------------------------------------------------------------------
+
+if(isset($cat)) {
+	echo "          <td width=\"14%\" height=\"480\" valign=\"top\" style=\"padding:5\" bgcolor=\"#F0F5F6\"  style=\"border-right-width:1px; border-right-style:solid; border-right-color:#CCC\">\n";
+	require_once APP_DIR . "_include/tpl_leftMenu.php";
+	echo "          </td>\n";
+}
+?>

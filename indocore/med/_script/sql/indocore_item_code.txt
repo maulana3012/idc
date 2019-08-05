@@ -1,0 +1,181 @@
+(CdI)	Supplier	Category	Type	Item No.	Item Description	
+0000	22	Manual	M1	Omron Manual Blood Pressure Monitor	
+0001	22	Manual	MX	Omron Manual Blood Pressure Monitor	
+0002	22	Manual	M2	Omron Manual Blood Pressure Monitor	
+0003	22	Manual	M3	Omron Manual Blood Pressure Monitor	
+000A	23	Manual	M-IB	Omron Inflation Bulb for Manual BPM	
+0010	22	Automatic	M4	Omron Automatic Blood Pressure Monitor	
+0011	22	Automatic	M5	Omron Automatic Blood Pressure Monitor	
+0012	22	Automatic	MX3	Omron Automatic Blood Pressure Monitor	
+0013	22	Automatic	T4	Omron Automatic Blood Pressure Monitor	
+0014	22	Automatic	T5	Omron Automatic Blood Pressure Monitor	
+0015	22	Automatic	T6	Omron Automatic Blood Pressure Monitor	
+0016	22	Automatic	T8	Omron Automatic Blood Pressure Monitor	
+0017	22	Automatic	T9P	Omron Automatic Blood Pressure Monitor	
+0017A	23	Automatic	T9P-Cable Set	Omron Cable Set for T9P	
+0017C	23	Automatic	T9P Paper	Omron Paper T9P	
+0018	22	Automatic	I-A1	Omron Automatic Blood Pressure Monitor	
+0019	22	Automatic	I-A2	Omron Automatic Blood Pressure Monitor	
+0020	22	w/Printer	HEM-705CP	Omron Blood Pressure Monitor with Printer	
+002A	23	w/Printer	HEM-PR	Omron Paper Roll	
+0021	22	Automatic	SEM-1	Omron Automatic Blood Pressure Monitor	
+0022	22	Automatic	SEM-2	Omron Automatic Blood Pressure Monitor	
+0030	22	Wrist	R5	Omron Wrist Blood Pressure Monitor	
+0031	22	Wrist	R6	Omron Wrist Blood Pressure Monitor	
+0032	22	Wrist	RX-M	Omron Wrist Blood Pressure Monitor	
+0033	22	Wrist	RX-M2	Omron Wrist Blood Pressure Monitor	
+0034	22	Wrist	R-A1	Omron Wrist Blood Pressure Monitor	Sep-03
+0035	22	Wrist	R7	Omron Wrist Blood Pressure Monitor	
+0036	22	Wrist	IW1	Omron Wrist Blood Pressure Monitor	Pengganti R5
+0037	22	Wrist	IW2	Omron Wrist Blood Pressure Monitor	Pengganti R6
+0038	22	Wrist	REM-1	Omron Wrist Blood Pressure Monitor	
+0039	22	Wrist	REM-2	Omron Wrist Blood Pressure Monitor	
+0040	22	Finger	F1	Omron Finger Blood Pressure Monitor	
+0041	22	Finger	F2	Omron Finger Blood Pressure Monitor	
+0090	22	f/Clinic	HEM-907	Omron Blood Pressure Monitor for Clinic Use	
+009A00	23	f/Clinic	HEM-ST	Omron Stand for HEM-907	
+009A01	23	f/Clinic	HEM-MP	Omron Pole Mount for HEM-907	
+009A02	23	f/Clinic	HEM-MW	Omron Wall Mount for HEM-907	
+009A03	23	f/Clinic	HEM-BP	Omron Battery Pack for HEM-907	
+009A10	23	f/Clinic	HEM-CL19	Omron Arm Cuff for BPM	
+009A11	23	f/Clinic	HEM-CM19	Omron Arm Cuff for BPM	
+009A12	23	Cuff	HEM-CS19	Omron Arm Cuff for BPM	
+00A00	23	Cuff	CUFF-L	Omron Arm Cuff for BPM	32-38 cm
+00A01	23	Cuff	CUFF-M	Omron Arm Cuff for BPM	22-32 cm
+00A02	23	Cuff	CUFF-S	Omron Arm Cuff for BPM	17-22 cm
+00A03	23	Fit Cuff	Fit Cuff-L (for IA-1)	Omron Arm Cuff for BPM (IA-1)	
+00A04	23	Fit Cuff	Fit Cuff-M (for IA-1)	Omron Arm Cuff for BPM (IA-1)	
+00A05	23	Cuff	Cuff-M for SEM-1 / SEM-2	Omron Arm Cuff for BPM (SEM-1/SEM-2 )	
+00A06	23	Automatic	Air Plug IA1 	Omron Air Plug for IA1	
+00A07	23	Automatic	Air Plug IA2	Omron Air Plug for IA2	
+00A20	23	Bladder	HEM-BL	Omron Bladder, L size	
+00A21	23	Bladder	HEM-BM	Omron Bladder, M size	
+00A22	23	Bladder	HEM-BS	Omron Bladder, S size	
+00A23	23	Fit Cuff	Cuff-L (for IA-2)	Omron Arm Cuff for BPM (IA-1)	
+00A24	23	Fit Cuff	Cuff-M (for IA-2)	Omron Arm Cuff for BPM (IA-1)	
+0201B	23	Assy	Adaptor BPM	Omron Adaptor for BPM	
+
+
+0100	Omron	EFT	Pencil	MC-110B	Omron Digital Pencil Thermometer	
+0101	Omron	EFT	Pencil	MC-111BW	Omron Digital Pencil Thermometer	
+0102	Omron	EFT	Pencil	MC-303BW	Omron Digital Pencil Thermometer	
+0103	Omron	EFT	Pencil	MC-270	Omron Digital Pencil Thermometer	
+0104	Omron	EFT	Pencil	MC-240	Omron Digital Pencil Thermometer	
+0110	Omron	EFT	Ear	MC-509	Omron Instant Ear Thermometer	
+0111	Omron	EFT	Ear	MC-510	Omron Instant Ear Thermometer	
+011A	Omron	EFT Part	Ear	MC-505LC	Omron Probe Covers for Ear Thermometer	40 units
+0200	Omron	NEB	Mesh	NE-U22	Omron Mesh Nebulizer	`
+0200A4	Omron	NEB Part	Assy	NE-U22-4 (Mesh Assy)	Omron Mesh Assy for NE-U22	
+0200A6	Omron	NEB Part	Assy	NE-U22-6 (Mesh Bottle)	Omron Bottle Assy for NE-U22	
+0200B	Omron	NEB Part	Assy	Mesh Cap	Omron Mesh Cap for NE-U22	
+
+0200C	Omron	NEB Part	Assy	Adaptor NE-U22	Omron Adaptor for NE-U22	
+0210	Omron	NEB	Ultrasonic	NE-U07	Omron Ultrasonic Nebulizer	
+0211	Omron	NEB	Ultrasonic	NE-U12	Omron Ultrasonic Nebulizer	
+0211A	Omron	NEB Part	Ultrasonic	NE-U12H	Omron Hose for NE-U12	
+0211B	Omron	NEB Part	Ultrasonic	Medication Cup Set NE-U12	Omron Ultrasonic Nebulizer	
+0211C	Omron	NEB Part	Ultrasonic	Medication Tank Cover NE-U12	Omron Ultrasonic Nebulizer	
+0211A4	Omron	NEB Part	Assy	NE-U14-4	Omron Mesh Assy for NE-U14	
+0211A6	Omron	NEB Part	Assy	NE-U14-6	Omron Bottle Assy for NE-U14	
+0212	Omron	NEB	Ultrasonic	NE-U14	Omron Ultrasonic Nebulizer	
+0213	Omron	NEB	Ultrasonic	NE-U17	Omron Ultrasonic Nebulizer	Aug-03
+0213A	Omron	NEB Part	Ultrasonic	NE-U17Hose	Omron Hose for NE-U17	
+0213B	Omron	NEB Part	Ultrasonic	Washer NE-U17	Omron Washer for NE-U17	
+0213C	Omron	NEB Part	Ultrasonic	Nebulization Med.NE-U17 Set	Omron Nebulization for NE-U17 Set	
+0213D	Omron	NEB Part	Ultrasonic	Medication Tank Cover NE-U17	Omron Ultrasonic Nebulizer	
+0213E	Omron	NEB Part	Ultrasonic	MouthPice NE-U17	Omron MouthPice for NE-U17	
+0213F	Omron	NEB Part	Ultrasonic	Trolley for NE-U17	Omron Trolley for NE-U17	
+0220	Omron	NEB Part	Compressor	CX	Omron Compressor Nebulizer	
+0220A	Omron	NEB Part	Compressor	CX-VH	Omron Compressor Nebulizer	
+0221A	Omron	NEB Part	Compressor	CX3-VH	Omron Vaporizer Head	
+0220K	Omron	NEB Part	Compressor	NEB-KID CX	Omron Compressor Nebulizer Kid	
+0221	Omron	NEB	Compressor	CX3	Omron Compressor Nebulizer	NE-C16
+0221C	Omron	NEB Part	Compressor	Filter CX3	Omron Compressor Nebulizer	
+0222	Omron	NEB	Compressor	CX4	Omron Compressor Nebulizer	
+0223	Omron	NEB	Compressor	NE-C28	Omron Compressor Nebulizer	
+0223K	Omron	NEB Part	Compressor	NEB-KID NE-C28	Omron Compressor Nebulizer Kid for NE-C28	
+0223L	Omron	NEB Part	Compressor	AirTube NE-C28/NE-C29	Omron Compressor Air Tube for NE-C28	
+0223AL	Omron	NEB Part	Compressor	CX-IML for NE-C28/NE-C29	"Omron Inhaltation Mask for Nubulizer Kit,L"	
+0223AS	Omron	NEB Part	Compressor	CC-IMS for NE-C28/NE-C29	"Omron Inhaltation Mask for Nubulizer Kit,S"	
+0224	Omron	NEB	Compressor	NE-C29	Omron Compressor Nebulizer	
+022AL	Omron	NEB Part	Compressor	CX-IML	"Omron Inhaltation Mask for Nubulizer Kit,L"	
+022AS	Omron	NEB Part	Compressor	CC-IMS	"Omron Inhaltation Mask for Nubulizer Kit,S"	
+022K	Omron	NEB Part	Compressor	NEB-KID CX3	Omron Compressor Nebulizer Kid	
+0300	Omron	TENS	Pulse	HV-F125	Omron Electronic Pulse Massager	
+0301	Omron	TENS	Pulse	HV-F126	Omron Electronic Pulse Massager	
+0302	Omron	TENS	Pulse	HV-F158P	Omron Electronic Pulse Massager Go Beanii Pink	
+0303	Omron	TENS	Pulse	HV-F158G	Omron Electronic Pulse Massager Go Beanii Green	
+0310	Omron	TENS	Tap	HM-152	Omron Tap Massager	
+0311	Omron	TENS	Tap	HM-404	Omron Massager Chair	
+0320	Omron	TENS	Pulse	HV-F127	Omron Electronic Nerve Stimulator	
+0321	Omron	TENS	Pulse	HV-F128	Omron Electronic Nerve Stimulator	
+03A0	Omron	TENS Part	Pad	HV-BIGPAD	Omron Electrode Pad	
+03A1	Omron	TENS Part	Pad	HV-JUMBOPAD	Omron Electrode Pad	
+03A2	Omron	TENS Part	Pad	LONG-PADS	Omron Electrode Pad	
+03B0	Omron	TENS Part	Kable	Electrode Kable Pulse Massager	Omron Electrode Kable	
+0400	Omron	HRA	Ear	AK-03	Omron Hearing Aid	
+0401	Omron	HRA	Ear	AK-04	Omron Hearing Aid	
+0402	Omron	HRA Part	Ear	AK-Air Chip	Omron Hearing Aid	
+0500	Omron	ETB	Electric	HT-B015	Omron Electic Toothbrush	
+05A0	Omron	ETB Part	Spare	SB013-C	Omron Spare Toothbrush	
+0600	Omron	BFM		HBF-302	Omron Body Fat Monitor	
+0601	Omron	BFM		HBF-352	Omron Body Fat Monitor	
+0602	Omron	BFM		HBF-356	Omron Body Fat Monitor	
+0603	Omron	BFM		HBF-306	Omron Body Fat Monitor	
+0700	Omron	PED		HJ-002	Omron Pedometer	
+0701	Omron	PED		HJ-105	Omron Pedometer	
+0702	Omron	PED		HJ-109	Omron Pedometer	
+0703	Omron	PED		HJ-113	Omron Pedometer	
+1010	Jawon	BPM		FT-700R	Jawon Blood Pressure Monitor for Hospital Use	
+1010	Jawon	BPM		FT-700R	Jawon Blood Pressure Monitor for Hospital Use	
+101A	Jawon	BPM		FT-700RPP	Jawon Print Paper for FT-700R	
+1011	Jawon	BPM		Olympia 3	Jawon Body Composition Body Analyzer	
+1011A	Jawon	BPM		Olympia 3PrintPaper	Jawon Print Paper for Oympia 3.3	
+1900		Thermo		MC-C	Forehead Thermometer with special case	
+2000	GlucoDr	Meter		AGM-2100	GlocoDr Blood Glucose Test Meter	
+2000A	GlucoDr	Meter		AGM-2200SuperSensor	GlocoDr Blood Glucose Test Meter	
+2000C	GlucoDr	MeterSlim		AGM-2300Slim (Full)	GlocoDr Blood Glucose Test Meter Slim (Full)	
+2000D	GlucoDr	MeterSlim		AGM-2300Slim (Mini)	GlocoDr Blood Glucose Test Meter Slim (Mini)	
+2000B	GlucoDr	Cable		Cable AGM-2200SS  	GlucoDr SuperSensor Cable	
+2100	GlucoDr	Strip		AGS-25	GlocoDr Blood Glocose Test Strip	ED>=14M
+2100Ne	GlucoDr	Strip		AGS-25SuperSensor	GlocoDr Blood Glocose Test Strip	
+21001	GlucoDr	Strip		AGS-25K	GlocoDr Blood Glocose Test Strip	Korean Explanatory
+2101	GlucoDr	Strip		AGS-50	GlocoDr Blood Glocose Test Strip	ED>=14M
+21010	GlucoDr	Strip		AGS-500	GlocoDr Blood Glocose Test Strip	ED expired
+21011	GlucoDr	Strip		AGS-50K	GlocoDr Blood Glocose Test Strip	Korean Explanatory
+2101A	GlucoDr	Strip		AGS-50A	GlocoDr Blood Glocose Test Strip	Annexed toSet
+2101B	GlucoDr	Strip		AGS-50B	GlocoDr Blood Glocose Test Strip	2M>=ED >0
+2101F	GlucoDr	Strip		AGS-50F	GlocoDr Blood Glocose Test Strip	6M>=ED>2M
+2101L	GlucoDr	Strip		AGS-50L	GlocoDr Blood Glocose Test Strip	12M>=ED>6M
+2101N	GlucoDr	Strip		AGS-50N	GlocoDr Blood Glocose Test Strip	14M>=ED>12M
+2101Ne	GlucoDr	Strip		AGS-50SuperSensor	GlocoDr Blood Glocose Test Strip	
+2200	GlucoDr	Lancet		AGL-28	GlucoDr Lancet Gauge 28 	
+2201	GlucoDr	Lancet		AGL-23	GlucoDr Lancet Gauge 23 	
+2202	GlucoDr	Lancet		AGL-28 @50pcs	GlucoDr Lancet Gauge 28 @ 50pcs	
+2203	GlucoDr	Lancet		Easy Let	GlucoDr Easy Let	
+2300	GlucoDr	Lancing		AGL-D	GlucoDr Lancing Device	
+3000	Dr.LEE	ECG	Single	ECG-120B	Dr.LEE Single Channel ECG	
+3001	Dr.LEE	ECG	3/1	ECG-310B	Dr.LEE 3/1 Channel ECG	
+3002	Dr.LEE	ECG	3/6	ECG-310A	Dr.LEE 3/6 CH Interpretive ECG	
+3100	Dr.LEE	Cable	Acc	ECG-C	Dr.LEE ECG Cable set	
+3110	Dr.LEE	Parts	Print	ECG-120BPH	Dr.LEE Print Head for ECG-120B	
+3120	Dr.LEE	Parts	Sensor	ECG-ATF	Dr.LEE Sensor for ECG	
+3200	Dr.LEE	Electrode	Acc	ECG-Clamp Electrode	Dr.LEE ECG Clamp Electrodes	4 pcs
+3201	Dr.LEE	Electrode	Acc	ECG-EC	Dr.LEE ECG Chest Electrodes	6 pcs
+3300	Dr.LEE	Paper	Acc	ECG-P050	Dr.LEE ECG Paper 50mm	
+3301	Dr.LEE	Paper	Acc	ECG-P063	Dr.LEE ECG Paper 63mm	
+3302	Dr.LEE	Paper	Acc	ECG-P120	Dr.LEE ECG Paper 120mm	
+3400	Dr.LEE	Gel	Acc	ECG-BSG	Dr.LEE ECG Biosonic Gel	
+4000	DFI	Analizer		READER 300	CYBOW Urine Chemistry Analyzer	
+4100	DFI	Strip		CYBOW 03	CYBOW Urine Reagent Strip	
+4101	DFI	Strip		CYBOW 10	CYBOW Urine Reagent Strip	
+4102	DFI	Strip		CYBOW 11	CYBOW Urine Reagent Strip	
+4103	DFI	Strip		CYBOW G	CYBOW Urine Reagent Strip	
+4104	DFI	Strip		CYBOW 5	CYBOW Urine Reagent Strip	
+5000		Shower Gloves		"Body Gloves 10G,Drum Packing"	Body Gloves Drum Packing	
+5001		Shower Gloves		"Body Gloves 10G,PP Bag Packing"	Body Gloves PP Bag Packing	
+6FB3	Joint Enterprise	Optima 3in	Fiber	Optima Fiber 3in Blue	Optima Cast Fiber 3in Blue	
+6FW3	Joint Enterprise	Optima 3in	Fiber	Optima Fiber 3in White	Optima Cast Fiber 3in White	
+6FH3	Joint Enterprise	Optima 3in	Fiber	Optima Fiber 3in Green	Optima Cast Fiber 3in Green	
+6FP3	Joint Enterprise	Optima 3in	Fiber	Optima Fiber 3in Pink	Optima Cast Fiber 3in Green	
+6FH4	Joint Enterprise	Optima 4in	Fiber	Optima Fiber 4in Green	Optima Cast Fiber 4in Green	
