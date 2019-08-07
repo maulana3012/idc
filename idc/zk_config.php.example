@@ -16,10 +16,10 @@ session_start();
 //  DATABASE SECTION
 //------------------------------------------------------------------------
 $dbms      = "pgsql";
-$dbuser    = "";
-$dbpass    = "";
-$dbhost    = "";
-$dbname    = "";
+$dbuser    = "postgres";
+$dbpass    = "12127654";
+$dbhost    = "192.168.177";
+$dbname    = "db_indocore";
 
 //------------------------------------------------------------------------
 //  DEFINE CONSTANT SECTION
